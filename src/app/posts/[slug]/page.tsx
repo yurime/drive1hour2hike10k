@@ -20,7 +20,7 @@ export default async function Post(props: Params) {
   const content = await markdownToHtml(post.content || "");
 
   return (
-    <main>
+    <main dir={post.direction}>
       <Alert preview={post.preview} />
       <Container>
         <Header />
@@ -31,7 +31,7 @@ export default async function Post(props: Params) {
             date={post.date}
             author={post.author}
           />
-          <PostBody content={content} />
+          <PostBody content={content} direction={post.direction}/>
         </article>
       </Container>
     </main>

@@ -4,10 +4,10 @@ type Props = {
   content: string;
 };
 
-export function PostBody({ content }: Props) {
+export function PostBody({ content, direction }: Props) {
   return (
     <div className="max-w-2xl mx-auto">
-      <div
+      <div dir={direction}
         className={markdownStyles["markdown"]}
         dangerouslySetInnerHTML={{ __html: content }}
       />

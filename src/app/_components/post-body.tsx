@@ -2,6 +2,7 @@ import markdownStyles from "./markdown-styles.module.css";
 
 type Props = {
   content: string;
+  direction: string;
 };
 
 export function PostBody({ content, direction }: Props) {

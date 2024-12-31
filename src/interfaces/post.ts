@@ -14,5 +14,6 @@ export type Post = {
 
   content: string;
   preview?: boolean;
+  wazeParking: string;
   israelHikingMap: string;
 };

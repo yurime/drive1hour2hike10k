@@ -21,7 +21,7 @@ export function PostHeader({ title, coverImage, israelHikingMap, date, author }:
         <Avatar name={author.name} picture={author.picture} />
       </div>
       <div className="max-w-2xl mx-auto">
-         <iframe  class="w-full" src={israelHikingMap} title="Hike route on israelhiking.osm.org.il " allowFullScreen></iframe>
+         <iframe src={israelHikingMap} title="Hike route on israelhiking.osm.org.il " allowFullScreen></iframe>
         <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href={israelHikingMap}> {israelHikingMap} </a>
           
       </div>

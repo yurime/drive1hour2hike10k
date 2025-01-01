@@ -21,5 +21,5 @@ israelHikingMap: "https://israelhiking.osm.org.il/share/Qod5IAACVA"
 
 ## אטרקציות
 
-* בורות מים ומערה [amudanan](https://amudanan.co.il/#!wiki=P143403)
-* פסיפס - מקטע קטן [amudanan1](https://amudanan.co.il/#!wiki=P813331), [amudanan2](https://amudanan.co.il/#!wiki=P703470)
+- בורות מים ומערה [amudanan](https://amudanan.co.il/#!wiki=P143403)
+- פסיפס - מקטע קטן [amudanan1](https://amudanan.co.il/#!wiki=P813331), [amudanan2](https://amudanan.co.il/#!wiki=P703470)

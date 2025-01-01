@@ -3,7 +3,6 @@
 }
 
 .markdown p,
-.markdown ul,
 .markdown ol,
 .markdown blockquote {
   @apply my-6;
@@ -15,4 +14,12 @@
 
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
+}
+
+.markdown ul {
+  @apply max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400
+}
+
+.markdown a {
+  @apply font-medium text-blue-600 dark:text-blue-500 hover:underline
 }

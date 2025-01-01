@@ -17,8 +17,10 @@
 }
 
 .markdown ul {
-  @apply max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400
+  @apply pr-4 text-gray-500 list-disc list-outside dark:text-gray-400 
 }
+
+
 
 .markdown a {
   @apply font-medium text-blue-600 dark:text-blue-500 hover:underline

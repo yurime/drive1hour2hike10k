@@ -28,10 +28,10 @@ export default async function Post(props: Params) {
           <PostHeader
             title={post.title}
             coverImage={post.coverImage}
+            israelHikingMap={post.israelHikingMap}
             date={post.date}
             author={post.author}
           />
-          <iframe src={post.israelHikingMap} title="Hike route on israelhiking.osm.org.il "></iframe>
           <PostBody content={content} direction={post.direction}/>
         </article>
       </Container>

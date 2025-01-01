@@ -21,5 +21,14 @@ israelHikingMap: "https://israelhiking.osm.org.il/share/Qod5IAACVA"
 
 ## אטרקציות
 
-- בורות מים ומערה [amudanan](https://amudanan.co.il/#!wiki=P143403)
-- פסיפס - מקטע קטן [amudanan1](https://amudanan.co.il/#!wiki=P813331), [amudanan2](https://amudanan.co.il/#!wiki=P703470)
+- בורות מים ומערה \[[amudanan](https://amudanan.co.il/#!wiki=P143403)\]
+- פסיפס - מקטע קטן \[[amudanan1](https://amudanan.co.il/#!wiki=P813331)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P703470)\]
+- הכנסיה \[[amudanan](https://amudanan.co.il/#!wiki=P390816)\] -- רצפת פסיפס 
+- עראק אל חלא \[[amudanan](https://amudanan.co.il/#!wiki=P522489)\] חווה חקלאית מימי הבית-השני עליה הוקם מחנה צבאי רומי
+- מאגר מים חצוב עם עמודים \[[amudanan](https://amudanan.co.il/#!wiki=P788467)\]
+- מערת קולומבריום \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_12387617001)\], \[[amudanan1](https://amudanan.co.il/#!wiki=P988966)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P962283)\]
+- חרבת אלים \[[amudanan](https://amudanan.co.il/#!wiki=P793907)\]
+    - מערת פעמון ומחילת מסתור \[[amudanan1](https://amudanan.co.il/#!wiki=P404071)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P624861)\]
+    * קולומברים קטן ומערת מסתור \[[amudanan1](https://amudanan.co.il/#!wiki=P282462)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P273393)\]
+- קבר שייח תמים אל-דארי \[[amudanan](https://amudanan.co.il/#!wiki=P704179)\]
+- מערת צלב \[[amudanan](https://amudanan.co.il/#!wiki=P795104)\]

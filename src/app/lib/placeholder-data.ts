@@ -4,9 +4,9 @@
 const hikes =[ //Hike type's list
   {
   name: 'בית גוברין, חרבת אלים, קבר שייח תמים אל-דארי 9.7 ק"מ';
-  post_link: 'https://drive1hour2hike10k.vercel.app/posts/beitGovrinElHishaAlimRuins9.7km';
-  distance:  9.73;
-  ascent: 158;
-  descent: -158;
+  post_link: 'https://drive1hour2hike10k.vercel.app/posts/beitGovrinElHishaAlimRuins9.7km',
+  distance:  9.73,
+  ascent: 158,
+  descent: -158,
   },
 ]

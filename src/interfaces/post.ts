@@ -16,4 +16,7 @@ export type Post = {
   preview?: boolean;
   wazeParking: string;
   israelHikingMap: string;
+  distance:number;
+  ascent: number;
+  descent: number;
 };

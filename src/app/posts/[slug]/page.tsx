@@ -31,6 +31,9 @@ export default async function Post(props: Params) {
             israelHikingMap={post.israelHikingMap}
             date={post.date}
             author={post.author}
+            distance={post.distance}
+            ascent={post.ascent}
+            descent={post.descent}
           />
           <PostBody content={content} direction={post.direction}/>
         </article>

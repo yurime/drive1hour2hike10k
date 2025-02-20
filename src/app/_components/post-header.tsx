@@ -3,6 +3,8 @@ import DateFormatter from "./date-formatter";
 import { PostTitle } from "@/app/_components/post-title";
 import { type Author } from "@/interfaces/author";
 import  MyMap  from "@/app/_components/my-map";
+import type { LatLngTuple } from 'leaflet'
+
 
 type Props = {
   title: string;
@@ -12,9 +14,10 @@ type Props = {
   distance: number;
   ascent: number;
   descent: number;
+  parkingCoords: LatLngTuple;
 };
 
-export function PostHeader({ title, israelHikingMap, date, author,distance, ascent, descent }: Props) {
+export function PostHeader({ title, israelHikingMap, date, author,distance, ascent, descent, parkingCoords }: Props) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
@@ -22,7 +25,7 @@ export function PostHeader({ title, israelHikingMap, date, author,distance, asce
         <Avatar name={author.name} picture={author.picture} />
       </div>
 
-      <MyMap />
+      <MyMap position={parkingCoords}/>
         
       <div className="max-w-2xl mx-auto">
         <div className="block md:hidden mb-6">

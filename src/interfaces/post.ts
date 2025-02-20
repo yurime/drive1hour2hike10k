@@ -1,4 +1,5 @@
 import { type Author } from "./author";
+import type { LatLngTuple } from 'leaflet'
 
 export type Post = {
   slug: string;
@@ -19,4 +20,5 @@ export type Post = {
   distance:number;
   ascent: number;
   descent: number;
+  parkingCoords: LatLngTuple;
 };

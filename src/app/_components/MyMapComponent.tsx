@@ -2,9 +2,11 @@ import type { LatLngTuple } from 'leaflet'
 import React from 'react'
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet'
 
-const position: LatLngTuple = [32.016, 34.755,]
+type Props = {
+  position: LatLngTuple;
+};
 
-export default function MyMapComponent() {
+export default function MyMapComponent({position} : Props) {
   return ( 
   <div id="map" className="h-180px">
     <MapContainer center={position} zoom={13} scrollWheelZoom={true}>
@@ -14,7 +16,7 @@ export default function MyMapComponent() {
       />
       <Marker position={position}>
         <Popup>
-          A pretty CSS3 popup. <br />
+          מקום לחניה <br />
         </Popup>
       </Marker>
     </MapContainer>

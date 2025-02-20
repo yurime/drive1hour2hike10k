@@ -9,11 +9,12 @@ author:
   picture: "/assets/blog/authors/yuri.jpeg"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
-wazeParking: "https://ul.waze.com/ul?place=ChIJ7bHimxrPAhURaODlr00yfSo&ll=31.83903000%2C34.98200600&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+wazeParking: "https://ul.waze.com/ul?place=ChIJi2blCoszHRURHmxJZf_RRec&ll=32.03367980%2C34.95767530&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/IPNJ0siElL"
 distance: 9.94 
 ascent:  191
 descent:  -190
+parkingCoords: [32.034, 34.958,]
 ---
 ## חניה
 אנדרטת עוצבת אגרוף ורומח (חטיבה 27)

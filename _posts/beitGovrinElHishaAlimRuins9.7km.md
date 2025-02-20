@@ -14,6 +14,7 @@ israelHikingMap: "https://israelhiking.osm.org.il/share/Qod5IAACVA"
 distance: 9.73
 ascent:  158
 descent:  -158
+parkingCoords: [31.608, 34.892,]
 ---
 
 

@@ -8,6 +8,7 @@ import Container from "@/app/_components/container";
 import Header from "@/app/_components/header";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
+import type { LatLngTuple } from 'leaflet'
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -18,7 +19,6 @@ export default async function Post(props: Params) {
   }
 
   const content = await markdownToHtml(post.content || "");
-
   return (
     <main>
       <Alert preview={post.preview} />
@@ -33,6 +33,7 @@ export default async function Post(props: Params) {
             distance={post.distance}
             ascent={post.ascent}
             descent={post.descent}
+            parkingCoords={post.parkingCoords}
           />
           <PostBody content={content} direction={post.direction}/>
         </article>

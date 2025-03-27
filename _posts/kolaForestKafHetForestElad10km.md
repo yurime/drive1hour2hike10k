@@ -15,6 +15,7 @@ distance: 9.94
 ascent:  191
 descent:  -190
 parkingCoords: [32.034, 34.958,]
+fileAddr: "/treksgpx/kulaForest10km.gpx"
 ---
 ## חניה
 אנדרטת עוצבת אגרוף ורומח (חטיבה 27)

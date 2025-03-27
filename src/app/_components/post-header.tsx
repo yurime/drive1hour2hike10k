@@ -15,9 +15,10 @@ type Props = {
   ascent: number;
   descent: number;
   parkingCoords: LatLngTuple;
+  fileAddr : string;
 };
 
-export function PostHeader({ title, israelHikingMap, date, author,distance, ascent, descent, parkingCoords }: Props) {
+export function PostHeader({ title, israelHikingMap, date, author,distance, ascent, descent, parkingCoords, fileAddr }: Props) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
@@ -25,7 +26,7 @@ export function PostHeader({ title, israelHikingMap, date, author,distance, asce
         <Avatar name={author.name} picture={author.picture} />
       </div>
 
-      <MyMap position={parkingCoords}/>
+      <MyMap position={parkingCoords} fileAddr={fileAddr}/>
         
       <div className="max-w-2xl mx-auto">
         <div className="block md:hidden mb-6">

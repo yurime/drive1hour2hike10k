@@ -34,6 +34,7 @@ export default async function Post(props: Params) {
             ascent={post.ascent}
             descent={post.descent}
             parkingCoords={post.parkingCoords}
+            fileAddr={post.fileAddr}
           />
           <PostBody content={content} direction={post.direction}/>
         </article>

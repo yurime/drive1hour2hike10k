@@ -21,4 +21,5 @@ export type Post = {
   ascent: number;
   descent: number;
   parkingCoords: LatLngTuple;
+  fileAddr : string;  
 };

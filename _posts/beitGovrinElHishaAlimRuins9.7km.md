@@ -15,6 +15,7 @@ distance: 9.73
 ascent:  158
 descent:  -158
 parkingCoords: [31.608, 34.892,]
+fileAddr: "/treksgpx/beitGovrinElHishaAlimRuins9.7km.gpx"
 ---
 
 

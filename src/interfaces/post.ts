@@ -5,7 +5,7 @@ export type Post = {
   slug: string;
   title: string;
   date: string;
-  direction: string;
+  txtDirrection: string;//for hebrew/english: rtl/ltr
   coverImage: string;
   author: Author;
   excerpt: string;
@@ -21,5 +21,5 @@ export type Post = {
   ascent: number;
   descent: number;
   parkingCoords: LatLngTuple;
-  fileAddr : string;  
+  gpxFileAddr : string;  
 };

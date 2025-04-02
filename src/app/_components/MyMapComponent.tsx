@@ -1,6 +1,5 @@
 import type { LatLngTuple } from 'leaflet'
 import gpxParser from "gpxparser";
-//import GPX from 'leaflet-gpx';
 import React from 'react'
 import { LayersControl,
          MapContainer, 
@@ -16,9 +15,8 @@ import { useEffect, useState } from "react";
 
 export type MapProps = {
    position: LatLngTuple;
-   fileAddr : string;
+   gpxFileAddr : string;
 };
-const fileAddrLoc : string = "/treksgpx/kulaForest10km.gpx";
 
 type TrackStats = {
   distance: { total: number };
@@ -32,25 +30,25 @@ type TrackStats = {
 };
 
 
-export default function MyMapComponent({position, fileAddr} : MapProps) {
+export default function MyMapComponent({position, gpxFileAddr} : MapProps) {
    const [positionsGpx, setPositionsGpx] = useState<number[][]>();
-  const [trackStats, setTrackStats] = useState<TrackStats>();
+   const [trackStats, setTrackStats] = useState<TrackStats>();
 
    useEffect(
     () => {
     (async () => {
-      const gpxFile = await fetch(fileAddr);
+      const gpxFile = await fetch(gpxFileAddr);
       const data = await gpxFile.text();
       const gpx = new gpxParser();
       gpx.parse(data);
       const positions = gpx.tracks[0].points.map((p) => [p.lat, p.lon]);
       setPositionsGpx(positions);
-     setTrackStats({
-       distance: gpx.tracks[0].distance,
-       elevation: gpx.tracks[0].elevation,
-     });
+      setTrackStats({
+         distance: gpx.tracks[0].distance,
+         elevation: gpx.tracks[0].elevation,
+      });
     }) ();
-  }, [fileAddr]);
+  }, [gpxFileAddr]);
   return ( 
   <div id="map" className="h-180px">
     {positionsGpx && (

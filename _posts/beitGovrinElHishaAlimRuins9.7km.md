@@ -3,7 +3,7 @@ title: "בית גוברין, חרבת אלים, קבר שייח תמים אל-ד
 excerpt: "המסלול מסומן כמעט לכל אורכו: שביל ישראל+שביל ירוק"
 coverImage: "/assets/blog/preview/cover.jpg"
 date: "2024-05-31T05:35:07.322Z"
-direction: "rtl"
+txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
@@ -15,7 +15,7 @@ distance: 9.73
 ascent:  158
 descent:  -158
 parkingCoords: [31.608, 34.892,]
-fileAddr: "/treksgpx/beitGovrinElHishaAlimRuins9.7km.gpx"
+gpxFileAddr: "/treksgpx/beitGovrinElHishaAlimRuins9.7km.gpx"
 ---
 
 

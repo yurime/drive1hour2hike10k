@@ -8,7 +8,6 @@ import Container from "@/app/_components/container";
 import Header from "@/app/_components/header";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
-import type { LatLngTuple } from 'leaflet'
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -34,9 +33,9 @@ export default async function Post(props: Params) {
             ascent={post.ascent}
             descent={post.descent}
             parkingCoords={post.parkingCoords}
-            fileAddr={post.fileAddr}
+            gpxFileAddr={post.gpxFileAddr}
           />
-          <PostBody content={content} direction={post.direction}/>
+          <PostBody content={content} txtDirrection={post.txtDirrection}/>
         </article>
       </Container>
     </main>

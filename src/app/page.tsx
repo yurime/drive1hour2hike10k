@@ -3,6 +3,7 @@ import { HeroPost } from "@/app/_components/hero-post";
 import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "@/lib/api";
+import Link from "next/link";
 
 export default function Index() {
   const allPosts = getAllPosts();
@@ -14,7 +15,12 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <Intro />
+        <Intro />      
+          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
+          <Link href="/search" className="hover:underline">
+            Search
+          </Link>
+          </h3>
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}

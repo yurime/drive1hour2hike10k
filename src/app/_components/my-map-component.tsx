@@ -18,21 +18,11 @@ export type MapProps = {
    gpxFileAddr : string;
 };
 
-type TrackStats = {
-  distance: { total: number };
-  elevation: {
-    avg: number;
-    max: number;
-    min: number;
-    neg: number;
-    pos: number;
-  };
-};
+
 
 
 export default function MyMapComponent({position, gpxFileAddr} : MapProps) {
    const [positionsGpx, setPositionsGpx] = useState<number[][]>();
-   const [trackStats, setTrackStats] = useState<TrackStats>();
 
    useEffect(
     () => {
@@ -43,12 +33,9 @@ export default function MyMapComponent({position, gpxFileAddr} : MapProps) {
       gpx.parse(data);
       const positions = gpx.tracks[0].points.map((p) => [p.lat, p.lon]);
       setPositionsGpx(positions);
-      setTrackStats({
-         distance: gpx.tracks[0].distance,
-         elevation: gpx.tracks[0].elevation,
-      });
     }) ();
   }, [gpxFileAddr]);
+   
   return ( 
   <div id="map" className="h-180px">
     {positionsGpx && (

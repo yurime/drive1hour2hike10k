@@ -1,11 +1,11 @@
 'use client'
 
 import dynamic from 'next/dynamic';
-import type {MapProps } from '@/app/_components/MyMapComponent';
+import type {MapProps } from '@/app/_components/my-map-component';
 
 
 export default function MyMap({position, gpxFileAddr} : MapProps) {
-   const MyMapComponent = dynamic(() => import('./MyMapComponent'), {
+   const MyMapComponent = dynamic(() => import('./my-map-component'), {
     loading: () => <>Loading...</>,
     ssr: false,
   })

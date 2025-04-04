@@ -22,7 +22,7 @@ gpxFileAddr: "/treksgpx/beitGovrinElHishaAlimRuins9.7km.gpx"
 ## חניה
 צפונית ל"דלק בית גוברין" צד שני של הכביש או בדלק
 
-[https://ul.waze.com/ul?ll=31.60796204%2C34.89177346&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location](https://ul.waze.com/ul?ll=31.60796204%2C34.89177346&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
+[https://ul.waze.com/ul?ll=31.60796204%2C34.89177346](https://ul.waze.com/ul?ll=31.60796204%2C34.89177346&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
 

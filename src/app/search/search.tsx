@@ -5,6 +5,7 @@ import { MoreStories } from "@/app/_components/more-stories";
 import { Post } from "@/interfaces/post";
 
 import { useState } from "react";
+import  MyMap  from "@/app/search/_components/my-map";
 type Props = {
   allPosts:Post[];
 };
@@ -65,7 +66,10 @@ export default function Search({allPosts}:Props) {
             Search
           </button>
         </form>
-        {resultPosts.length > 0 && <MoreStories posts={resultPosts} />}
+         {resultPosts.length > 0 && 
+          <MyMap  posts={resultPosts}/>}
+        {resultPosts.length > 0 && 
+          <MoreStories posts={resultPosts} />}
     </div>
   );
 }

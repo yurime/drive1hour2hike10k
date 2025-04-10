@@ -28,14 +28,14 @@ export default function Search({allPosts}:Props) {
      };
 
   return (
-    <div>
+    <>
  
         <label htmlFor="search" className="sr-only">
           Search
         </label>
         
+    <div>
         <form >
-          <div >
              Path min length:  km
             <input
               id='search'
@@ -60,16 +60,17 @@ export default function Search({allPosts}:Props) {
                defaultValue={trackMaxLength.toString()}
             />
               
-          </div>
+          <div/>
           <button type="button" onClick={()=>handleSearch()}
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
             Search
           </button>
         </form>
+        </div>
          {resultPosts.length > 0 && 
           <MyMap  posts={resultPosts}/>}
         {resultPosts.length > 0 && 
           <MoreStories posts={resultPosts} />}
-    </div>
+    </>
   );
 }

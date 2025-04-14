@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "https://lh3.googleusercontent.com/pw/AP1GczOVNh72-ZgHnE6-JeEEYd9td9mVp5L0JH5paO6Kuyibs_LOOYexmYNtLAYWPrsRS9aulir38tYUJW6Mhhowg9Jjuq_oPpsbngebaRf7mQPnnpu6UxnO"
 wazeParking: "https://ul.waze.com/ul?ll=31.74609690%2C35.06280184"
+israelHikingMap: "https://israelhiking.osm.org.il/share/jynt8fn0ah"
 distance: 9.8
 ascent:  296
 descent:  -296

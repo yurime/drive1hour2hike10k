@@ -1,14 +1,14 @@
 ---
 title: "יער קולה, יער כח, אלעד 10 ק\"מ"
 excerpt: "שרידי כפר פלסטיני ומצודה, מערת קבורה"
-coverImage: "/assets/blog/preview/cover.jpg"
-date: "2024-12-27T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczM2x-C9tQQuGHS6NQuTevQu1GCsqL1vEfPwk_KZeSi_cd4XM-bWGvFJdjOKzP3MqeXnOvHl5NYbNs26YoM4aeM-c3DEMC9J9vR8XRrAcA8Wv98y6Pnc=w1300-h600"
+date: "2024-05-31T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "https://lh3.googleusercontent.com/pw/AP1GczM2x-C9tQQuGHS6NQuTevQu1GCsqL1vEfPwk_KZeSi_cd4XM-bWGvFJdjOKzP3MqeXnOvHl5NYbNs26YoM4aeM-c3DEMC9J9vR8XRrAcA8Wv98y6Pnc"
 wazeParking: "https://ul.waze.com/ul?place=ChIJi2blCoszHRURHmxJZf_RRec&ll=32.03367980%2C34.95767530&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/IPNJ0siElL"
 distance: 9.94 

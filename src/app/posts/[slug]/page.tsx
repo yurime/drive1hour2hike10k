@@ -1,13 +1,15 @@
 import { Metadata } from "next";
+import cn from "classnames";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug } from "@/lib/api";
 import { CMS_NAME } from "@/lib/constants";
 import markdownToHtml from "@/lib/markdownToHtml";
-import Alert from "@/app/_components/alert";
+// import Alert from "@/app/_components/alert";
 import Container from "@/app/_components/container";
 import Header from "@/app/_components/header";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
+import Image from "next/image";
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -20,7 +22,7 @@ export default async function Post(props: Params) {
   const content = await markdownToHtml(post.content || "");
   return (
     <main>
-      <Alert preview={post.preview} />
+      {/*<Alert preview={post.preview} />*/}
       <Container>
         <Header />
         <article className="mb-32">
@@ -36,6 +38,15 @@ export default async function Post(props: Params) {
             gpxFileAddr={post.gpxFileAddr}
           />
           <PostBody content={content} txtDirrection={post.txtDirrection}/>
+          <Image
+              src={post.ogImage.url + "=w"+1300 +"-h"+630}
+              alt={`Cover Image for ${post.title}`}
+              className={cn("shadow-sm w-full", {
+                "hover:shadow-lg transition-shadow duration-200": post.slug,
+              })}
+              width={1300}
+              height={630}
+    />
         </article>
       </Container>
     </main>

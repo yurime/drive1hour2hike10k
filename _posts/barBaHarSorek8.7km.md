@@ -1,14 +1,14 @@
 ---
 title: "בר בהר ונחל שורק 8.7 ק\"מ"
 excerpt: "מסלול מבר בהר, נוף מעל נחל שורק וירידה עד אליו, חזרה בדרך נוף דרומית - שורק"
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMi-cLCE58_OmaNKykAjNpXxDAhxmtJEXFbu9mzupYqyM8a6v1j8vV5yAUnASH-bkFU-YkXs9_M4iXYQH0N6H0fSQyZsTsoiLBSbazmflomwMnaEG5A=w1300-h630"
 date: "2025-03-07T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "https://lh3.googleusercontent.com/pw/AP1GczMi-cLCE58_OmaNKykAjNpXxDAhxmtJEXFbu9mzupYqyM8a6v1j8vV5yAUnASH-bkFU-YkXs9_M4iXYQH0N6H0fSQyZsTsoiLBSbazmflomwMnaEG5A"
 wazeParking: "https://ul.waze.com/ul?preview_venue_id=23003453.229837925.70152&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 distance: 8.68
 ascent:  376

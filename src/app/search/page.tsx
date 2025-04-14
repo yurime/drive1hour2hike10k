@@ -41,7 +41,7 @@ export default async function Page(props: {
       <PostTitle>{"Search Stories"}</PostTitle>
 
       <div className="mt-4 flex items-center justify-between gap-2 md:mt-8">
-        <Search keyword_pl_hold={pl_hold.key_word} min_len_pl_hold={pl_hold.min_len} max_len_pl_hold={pl_hold.min_len} />
+        <Search keyword_pl_hold={pl_hold.key_word} min_len_pl_hold={pl_hold.min_len} max_len_pl_hold={pl_hold.max_len} />
       </div>
         <Suspense key={query + min_len + max_len + currentPage} fallback={<MoreStoriesSkeleton />}>
         <MoreSearchStories query={query}  min_len={min_len} max_len={max_len} currentPage={currentPage} />

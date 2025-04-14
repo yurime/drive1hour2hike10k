@@ -2,7 +2,7 @@
 title: "בר בהר ונחל שורק 8.7 ק\"מ"
 excerpt: "מסלול מבר בהר, נוף מעל נחל שורק וירידה עד אליו, חזרה בדרך נוף דרומית - שורק"
 coverImage: "/assets/blog/preview/cover.jpg"
-date: "2025-05-06T05:35:07.322Z"
+date: "2025-03-07T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman

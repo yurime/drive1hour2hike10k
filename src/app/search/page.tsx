@@ -1,10 +1,21 @@
 //import Pagination from '@/app/ui/invoices/pagination';
-import Search from '@/app/search/search';
+import Search from './search';
 import MoreSearchStories from './_components/more-search-stories';
+import Header from './_components/header'
+import { MoreStoriesSkeleton } from './_components/skeletons';
 
 import { Suspense } from 'react';
+import Container from '../_components/container';
+import { PostTitle } from '../_components/post-title';
 //import { fetchInvoicesPages } from '@/app/lib/data';
-import { MoreStoriesSkeleton } from './_components/skeletons';
+
+
+const pl_hold = {
+  key_word: "...מילת מפתח בטיול",
+  min_len: 9,
+  max_len: 10,
+  pg_num:1,
+};
 
 export default async function Page(props: {
   searchParams?: Promise<{
@@ -14,12 +25,6 @@ export default async function Page(props: {
     page?: string;
   }>;
 }) {
-  const pl_hold = {
-    key_word: "...מילת מפתח בטיול",
-    min_len: 9,
-    max_len: 10,
-    pg_num:1,
-  };
   const searchParams = await props.searchParams;
   const query = searchParams?.query || '';
   const min_len = searchParams?.min_len || pl_hold.min_len;
@@ -30,10 +35,11 @@ export default async function Page(props: {
   //const totalPages = await fetchInvoicesPages(query);
   
   return (
-    <div className="w-full">
-      <div className="flex w-full items-center justify-between">
-        <h1 className="text-2xl">Search Stories</h1>
-      </div>
+    <Container>
+
+      <Header />
+      <PostTitle>{"Search Stories"}</PostTitle>
+
       <div className="mt-4 flex items-center justify-between gap-2 md:mt-8">
         <Search keyword_pl_hold={pl_hold.key_word} min_len_pl_hold={pl_hold.min_len} max_len_pl_hold={pl_hold.min_len} />
       </div>
@@ -43,6 +49,6 @@ export default async function Page(props: {
 {/*      <div className="mt-5 flex w-full justify-center">
          <Pagination totalPages={totalPages} /> 
       </div>*/}
-    </div>
+    </Container>
   );
 }

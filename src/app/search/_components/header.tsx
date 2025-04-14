@@ -6,10 +6,6 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         Main Page
       </Link>
-      |
-      <Link href="/search" className="hover:underline">
-        Search
-      </Link>
     </h2>
   );
 };

@@ -1,34 +1,36 @@
+//import Pagination from '@/app/ui/invoices/pagination';
+import Search from '@/app/search/search2';
+import MoreSearchStories from './_components/more-search-stories';
 
-import Container from "@/app/_components/container";
-import Header from "@/app/_components/header";
-import { getAllPosts } from "@/lib/api";
-import Search from "@/app/search/search"
-import { PostTitle } from "@/app/_components/post-title";
-//import { useDebouncedCallback } from 'use-debounce';// consider adding module to wait for the user finish typing
-import { Post } from "@/interfaces/post";
+import { Suspense } from 'react';
+//import { fetchInvoicesPages } from '@/app/lib/data';
+import { MoreStoriesSkeleton } from './_components/skeletons';
 
-
-export default function SearchPage() {
-  const searchParams = "track length"
-  const allPosts = getAllPosts();
-
-
-  // const [resultPosts, setResultPosts] = useState<Post[]>(allPosts);
-
-  // const handleSearch = (term:string) => {
-  //     console.log(`Searching... ${term}`);
-  //     setResultPosts(allPosts
-  //   // sort posts by date in descending order
-  //   .filter((post1) => (post1.distance > Number(term))));
-  //    };
-
+export default async function Page(props: {
+  searchParams?: Promise<{
+    query?: string;
+    page?: string;
+  }>;
+}) {
+  const searchParams = await props.searchParams;
+  const query = searchParams?.query || '';
+  const currentPage = Number(searchParams?.page) || 1;
+  //const totalPages = await fetchInvoicesPages(query);
+  
   return (
-    <main>
-      <Container>
-      <Header />
-      <PostTitle>Search</PostTitle>
-        {allPosts && <Search allPosts={allPosts as Post[]}/>}
-      </Container>
-    </main>
+    <div className="w-full">
+      <div className="flex w-full items-center justify-between">
+        <h1 className="text-2xl">Search Stories</h1>
+      </div>
+      <div className="mt-4 flex items-center justify-between gap-2 md:mt-8">
+        <Search placeholder="...מילת מפתח בטיול" />
+      </div>
+        <Suspense key={query + currentPage} fallback={<MoreStoriesSkeleton />}>
+        <MoreSearchStories query={query} currentPage={currentPage} />
+      </Suspense> 
+{/*      <div className="mt-5 flex w-full justify-center">
+         <Pagination totalPages={totalPages} /> 
+      </div>*/}
+    </div>
   );
 }

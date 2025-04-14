@@ -8,6 +8,7 @@
   "dependencies": {
     "classnames": "^2.5.1",
     "date-fns": "^3.6.0",
+    "geist-icons": "^1.2.3",
     "gpxparser": "^3.0.8",
     "gray-matter": "^4.0.3",
     "leaflet": "^1.9.4",
@@ -17,7 +18,8 @@
     "react-dom": "19.0.0-rc.1",
     "react-leaflet": "5.0.0-rc.2",
     "remark": "^15.0.1",
-    "remark-html": "^16.0.1"
+    "remark-html": "^16.0.1",
+    "use-debounce": "^10.0.4"
   },
   "devDependencies": {
     "@types/leaflet": "^1.9.16",

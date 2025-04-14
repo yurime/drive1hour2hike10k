@@ -1,6 +1,6 @@
 'use client'
 
-import { MoreStories } from "@/app/_components/more-stories";
+import  {MoreStories}  from "@/app/_components/more-stories";
 //import { useDebouncedCallback } from 'use-debounce';// consider adding module to wait for the user finish typing
 import { Post } from "@/interfaces/post";
 

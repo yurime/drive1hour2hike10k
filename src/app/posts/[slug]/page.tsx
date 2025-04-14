@@ -9,6 +9,7 @@ import Container from "@/app/_components/container";
 import Header from "@/app/_components/header";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
+import { PostLinks }  from "@/app/_components/post-links";
 import Image from "next/image";
 
 export default async function Post(props: Params) {
@@ -37,6 +38,7 @@ export default async function Post(props: Params) {
             parkingCoords={post.parkingCoords}
             gpxFileAddr={post.gpxFileAddr}
           />
+          <PostLinks israelHikingMap={post.israelHikingMap} gpxFileAddr={post.gpxFileAddr} wazeParking={post.wazeParking} />
           <PostBody content={content} txtDirrection={post.txtDirrection}/>
           <Image
               src={post.ogImage.url + "=w"+1300 +"-h"+630}

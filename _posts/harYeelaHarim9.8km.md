@@ -15,7 +15,7 @@ distance: 9.8
 ascent:  296
 descent:  -296
 parkingCoords: [31.750177, 35.039856,]
-gpxFileAddr: "/treksgpx/nesHarim9km.gpx"
+gpxFileAddr: "/treksgpx/harYeelaHarim9.8km.gpx"
 ---
 
 

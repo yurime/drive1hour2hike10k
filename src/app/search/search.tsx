@@ -1,76 +1,74 @@
-'use client'
+'use client';
 
-import  {MoreStories}  from "@/app/_components/more-stories";
-//import { useDebouncedCallback } from 'use-debounce';// consider adding module to wait for the user finish typing
-import { Post } from "@/interfaces/post";
+import { MagnifyingGlass } from 'geist-icons'
 
-import { useState } from "react";
-import  MyMap  from "@/app/search/_components/my-map";
-type Props = {
-  allPosts:Post[];
-};
+import { useSearchParams, useRouter, usePathname } from 'next/navigation';
+import { useDebouncedCallback } from 'use-debounce';
 
-export default function Search({allPosts}:Props) {
-    const [trackMinLength, setTrackMinLength] = useState<Number>(9);
-    const [trackMaxLength, setTrackMaxLength] = useState<Number>(11);
 
-   const [resultPosts, setResultPosts] = useState<Post[]>(allPosts);
 
-  const handleSearch = () => {
-      console.log(`Searching... ${trackMinLength} <= length <= ${trackMaxLength}`);
-      setResultPosts(allPosts
-    // find posts with travel distance less than requested
-    .filter(  (post1) => ((post1.distance >= trackMinLength.valueOf()) 
-                        && (post1.distance <= trackMaxLength.valueOf())
-                        )
-            )
-        );
-     };
-
+export default function Search({ keyword_pl_hold, min_len_pl_hold, max_len_pl_hold }
+  : { keyword_pl_hold: string, min_len_pl_hold : number, max_len_pl_hold : number }) {
+   const searchParams = useSearchParams();
+    const pathname = usePathname();
+    const { replace } = useRouter();
+    const handleSearch = useDebouncedCallback((term,label) => {
+      console.log(`Searching... ${term}`);
+      const params = new URLSearchParams(searchParams);
+     // console.log(term);
+      params.set('page', '1');
+      if (term) {
+        params.set(label, term);
+      } else {
+        params.delete(label);
+      }
+      replace(`${pathname}?${params.toString()}`);
+     }, 300);
+  
   return (
-    <>
- 
-        <label htmlFor="search" className="sr-only">
-          Search
-        </label>
-        
-    <div>
-        <form >
-             Path min length:  km
-            <input
-              id='search'
-              className="size-fit text-sm placeholder:text-gray-500"
-              placeholder={String(trackMinLength)}
-              type="number"
-              onChange={(e) => {
-                setTrackMinLength(Number(e.target.value));
-              }}
-               defaultValue={trackMinLength.toString()}
-            />
-            <div />
-              Path max length:  km
-             <input
-              id='search'
-              className="size-fit text-sm placeholder:text-gray-500"
-              placeholder={String(trackMaxLength)}
-              type="number"
-              onChange={(e) => {
-                setTrackMaxLength(Number(e.target.value));
-              }}
-               defaultValue={trackMaxLength.toString()}
-            />
-              
-          <div/>
-          <button type="button" onClick={()=>handleSearch()}
-          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-            Search
-          </button>
-        </form>
+    <div className="relative flex flex-1 flex-shrink-0">
+      <label htmlFor="search" className="sr-only">
+        Search
+      </label>
+      <form>
+        <div>
+          Path min length:  km
+          <input
+            id='search_min_len'
+            className="size-fit text-sm text-center placeholder:text-gray-500 w-1/6"
+            placeholder={String(min_len_pl_hold)}
+            type="number"
+            onChange={(e) => {
+              handleSearch(e.target.value,'min_len');
+            }}
+             defaultValue={searchParams.get('min_len')?.toString()}
+          />
+          Path max length:  km
+          <input
+            id='search_max_len'
+            className="size-fit text-sm text-center placeholder:text-gray-500 w-1/6"
+            placeholder={String(max_len_pl_hold)}
+            type="number"
+            onChange={(e) => {
+              handleSearch(e.target.value,'max_len');
+            }}
+            defaultValue={searchParams.get('max_len')?.toString()}
+          />
         </div>
-         {resultPosts.length > 0 && 
-          <MyMap  posts={resultPosts}/>}
-        {resultPosts.length > 0 && 
-          <MoreStories posts={resultPosts} />}
-    </>
+        <div>
+        Keyword in text: 
+          <input
+            id='search_keywo'
+            className="size-fit text-sm text-center placeholder:text-gray-500 w-1/2"
+            placeholder={keyword_pl_hold}
+            onChange={(e) => {
+              handleSearch(e.target.value,'query');
+            }}
+            defaultValue={searchParams.get('query')?.toString()}
+          />
+          <MagnifyingGlass className="left-3 top-1/2 h-[18px] w-[18px] -translate-y-1/2 text-gray-500 peer-focus:text-gray-900" />
+        </div>
+      </form>
+    </div>
   );
 }

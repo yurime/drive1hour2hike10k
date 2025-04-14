@@ -10,3 +10,10 @@ export function MoreStoriesSkeleton() {
     </section>
   );
 }
+
+export function MyMapSkeleton() {
+  return (
+  		<div id="map" className="h-180px">
+        </div>
+  );
+}

@@ -10,16 +10,14 @@ import { LayersControl,
          TileLayer, useMap  } from 'react-leaflet'
 
 
-// gpx usage from: https://github.com/beringar/tracks-front/blob/main/src/components/MapComponent/MapComponent.tsx
-
-
 const DEFAULT_ZOOM = 13;
 
 export type MapProps = {
    posts: Post[];
 };
 
-const EILAT_POS = [29.511989,35.0973573,]as LatLngTuple
+
+const EILAT_POS = [29.5597, 34.9437,]as LatLngTuple
 
 
 interface IChangeView {

@@ -3,20 +3,28 @@ import { getAllPosts } from "@/lib/api";
 
 export async function fetchFilteredPosts(
   query: string,
+  max_len : number,
+  min_len : number,
   currentPage: number,
+ 
 ) {
  const allPosts = getAllPosts();
 
-      console.log(`Searching... ${query}`);
-      return allPosts
-    // find posts with travel distance less than requested
-    .filter(  (post1) => ((post1.author.name.includes(query))
-    					||(post1.content.includes(query))
-    					||(post1.title.includes(query))
-    					||(post1.excerpt.includes(query))
-                        )
-            )
+      // console.log(`Searching... ${query}`);
+      // console.log(`min_len... ${min_len}`);
+      // console.log(`max_len... ${max_len}`);
+      return allPosts 
+                .filter(  (post1) => ((post1.author.name.includes(query))
+                					||(post1.content.includes(query))
+                					||(post1.title.includes(query))
+                					||(post1.excerpt.includes(query))
+                                    )
+                ).filter(  (post1) => ((post1.distance >= min_len) 
+                                        && (post1.distance <= max_len)
+                                      )
+                )
 
+ // in case will move to search in database
   // try {
   //   const invoices = await sql<InvoicesTable>`
   //     SELECT

@@ -6,7 +6,10 @@ export async function fetchFilteredPosts(
   max_len : number,
   min_len : number,
   currentPage: number,
- 
+  east:number,
+   west:number,
+   north:number,
+   south:number 
 ) {
  const allPosts = getAllPosts();
 
@@ -21,6 +24,11 @@ export async function fetchFilteredPosts(
                                     )
                 ).filter(  (post1) => ((post1.distance >= min_len) 
                                         && (post1.distance <= max_len)
+                                      )
+                ).filter(  (post1) => ((post1.parkingCoords[0] <= north) 
+                                        && (post1.parkingCoords[0] >= south)
+                                        && (post1.parkingCoords[1] >= west) 
+                                        && (post1.parkingCoords[1] <= east)
                                       )
                 )
 

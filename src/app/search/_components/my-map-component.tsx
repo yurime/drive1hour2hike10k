@@ -1,23 +1,29 @@
-import type { LatLngTuple } from 'leaflet'
-import L, { LatLng, latLngBounds, FeatureGroup } from 'leaflet';
+import type {Map, LatLngBounds, LatLngTuple } from 'leaflet'
+import { latLngBounds } from 'leaflet';
 import { Post } from "@/interfaces/post";
 import Link from "next/link";
 import { LayersControl,
          MapContainer, 
          Marker, 
-         Popup, 
-         Polyline, 
-         TileLayer, useMap  } from 'react-leaflet'
+         Popup,  
+         TileLayer, useMap,  
+         } from 'react-leaflet'
+import { Dispatch, SetStateAction, useCallback, useEffect, useMemo, useState } from 'react';
+
+import { useSearchParams, useRouter, usePathname } from 'next/navigation';
+
+ import { useDebouncedCallback } from 'use-debounce';
 
 
 const DEFAULT_ZOOM = 13;
 
 export type MapProps = {
    posts: Post[];
+
 };
 
 
-const EILAT_POS = [29.5597, 34.9437,]as LatLngTuple
+const EILAT_POS = [29.5597, 34.9437,] as LatLngTuple
 
 
 interface IChangeView {
@@ -38,6 +44,33 @@ function ChangeView({ center, markers }: IChangeView) {
 }
 
 
+function CaptureMove({setBounds, map}:{setBounds:(Dispatch<SetStateAction<LatLngBounds|null>>), map:Map}) {
+    const onMove = useCallback( () => {
+                                setBounds(map.getBounds())
+                                        }, [map]
+                              )
+    const onZoom = useCallback( () => {
+                                setBounds(map.getBounds())
+                                        }, [map]
+                              )
+    useEffect(() => {
+                    map.on('move', onMove)
+                    return () => {
+                                  map.off('move', onMove)
+                                }
+                  }, [map, onMove]
+    )
+    useEffect(() => {
+                    map.on('zoomend', onZoom)
+                    return () => {
+                                  map.off('zoomend', onZoom)
+                                }
+                  }, [map, onZoom]
+    )
+  return null
+}
+
+
 export default function MyMapComponent({posts } : MapProps) {
    
  const num_posts = posts.length;
@@ -45,15 +78,35 @@ export default function MyMapComponent({posts } : MapProps) {
  const sum_y_vals = markers.reduce((acc,marker)=>(acc + marker[0]),0);
  const sum_x_vals = markers.reduce((acc,marker)=>(acc + marker[1]),0);
  const center = (num_posts == 0)? (EILAT_POS ): ([sum_y_vals/num_posts,sum_x_vals/num_posts,] as LatLngTuple);
+ const [bounds, setBounds] = useState(null) as [LatLngBounds|null, (Dispatch<SetStateAction<LatLngBounds|null>>)];
+ const searchParams = useSearchParams();
+ const pathname = usePathname();
+ const { replace } = useRouter();
+ const handleSearch = useDebouncedCallback(() => {
+      const params = new URLSearchParams(searchParams);
+     // console.log(term);
+      params.set('page', '1');
+      if (bounds) {
+        params.set('east', bounds.getEast().toFixed(4));
+        params.set('west', bounds.getWest().toFixed(4));
+        params.set('north', bounds.getNorth().toFixed(4));
+        params.set('south', bounds.getSouth().toFixed(4));
+      } else {
+        params.delete('east');
+        params.delete('west');
+        params.delete('north');
+        params.delete('south');
+      }
+      replace(`${pathname}?${params.toString()}`);
+     }, 300);
 
- 
  console.log(`center at ... ${center}, num_posts ${num_posts}`);
  markers.map((marker) => (console.log(`location ... ${marker[0]} , ${marker[1]}`)));
-  return ( 
-  <div id="map" className="h-180px">
-    
-      <MapContainer center={center} zoom={13} scrollWheelZoom={true}>
-        {(num_posts>1) && <ChangeView center={center} markers={markers} />}
+  const [map, setMap] = useState(null) as [Map|null, (Dispatch<SetStateAction<Map|null>>)];
+  const displayMap = useMemo(
+    () => (<>
+        <MapContainer center={center} zoom={13} scrollWheelZoom={true} ref={setMap}>
+        {(num_posts>1) && <ChangeView center={center} markers={markers}/>}
          <LayersControl>
          <LayersControl.BaseLayer checked name="OpenStreetMap Base">
            <TileLayer
@@ -74,8 +127,26 @@ export default function MyMapComponent({posts } : MapProps) {
                      </Popup>
                    </Marker>
         ))}
-
         </MapContainer>
-        </div>
+        </>
+            ),
+    [],
+  )
+  ;
+  return ( 
+  <div id="map" className="h-180px">
+        {map?   <>
+                 <CaptureMove map={map} setBounds={setBounds}/>
+                </>
+                 : null
+            }
+      {displayMap}
+      {bounds?  <button onClick={() => {
+              handleSearch();
+            }}> Set Search Map bounds to: 
+                    E{bounds.getEast().toFixed(4)}, N{bounds.getNorth().toFixed(4)}, S{bounds.getSouth().toFixed(4)}, W{bounds.getWest().toFixed(4)} 
+                </button>
+                 : null}
+              </div>
   )
 }

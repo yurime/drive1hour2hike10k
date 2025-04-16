@@ -1,4 +1,4 @@
-'use client';
+'use client'
 
 import { MagnifyingGlass } from 'geist-icons'
 

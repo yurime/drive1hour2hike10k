@@ -16,11 +16,6 @@ export default function Index() {
     <main>
       <Container>
         <Intro />      
-          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
-          <Link href="/search" className="hover:underline">
-            Search
-          </Link>
-          </h3>
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}

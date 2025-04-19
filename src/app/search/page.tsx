@@ -48,7 +48,7 @@ export default async function Page(props: {
   return (
     <Container>
 
-      <Header />
+      {/*<Header />*/}
       <PostTitle>{"Search Stories"}</PostTitle>
 
       <div className="mt-4 flex items-center justify-between gap-2 md:mt-8">

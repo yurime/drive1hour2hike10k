@@ -25,7 +25,7 @@ export default async function Post(props: Params) {
     <main>
       {/*<Alert preview={post.preview} />*/}
       <Container>
-        <Header />
+        {/*<Header />*/}
         <article className="mb-32">
           <PostHeader
             title={post.title}

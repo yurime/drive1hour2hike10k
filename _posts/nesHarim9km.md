@@ -1,6 +1,6 @@
 --- 
 title: "נס הרים דיר א-שייח חרבת טורה 9.07 ק\"מ"
-excerpt: "מסלול מעל נחל שורק. לא מומלץ אחרי גשם בגלל ריבוי אבני חלקות בהר (התחלה אלטרנטיבית מהר יעלה)"
+excerpt: "מסלול מעל נחל שורק. לא מומלץ אחרי גשם בגלל ריבוי אבנים חלקות בהר (התחלה אלטרנטיבית מהר יעלה)"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczOVNh72-ZgHnE6-JeEEYd9td9mVp5L0JH5paO6Kuyibs_LOOYexmYNtLAYWPrsRS9aulir38tYUJW6Mhhowg9Jjuq_oPpsbngebaRf7mQPnnpu6UxnO=w1300-h630"
 date: "2025-01-24T05:35:07.322Z"
 txtDirrection: "rtl"

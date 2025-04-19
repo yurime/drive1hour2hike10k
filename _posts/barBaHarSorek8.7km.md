@@ -32,5 +32,5 @@ gpxFileAddr: "/treksgpx/barBaHarSorek8.7km.gpx"
 - תחנת בר גיורא \[[amudanan](https://amudanan.co.il/#!wiki=P396025)\] בניין תחנה בריטי על קו הרכבת מיפו לירושלים
 - דָיר א-שייח'  \[[amudanan](https://amudanan.co.il/#!wiki=P842819)\], \[[isrealhiking](https://israelhiking.osm.org.il/poi/OSM/node_8244013101)\] שרידי כפר ערבי
 - עין טורה \[[amudanan](https://amudanan.co.il/#!wiki=P793941)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P289319)\]
-- חורבת טורא \[[amudanan](https://amudanan.co.il/#!wiki=P973961)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P466905)\], , \[[amudanan3](https://amudanan.co.il/#!wiki=P851449)\]\[[isrealhiking](https://israelhiking.osm.org.il/poi/OSM/node_4375306175)\]
+- חורבת טורא \[[amudanan](https://amudanan.co.il/#!wiki=P973961)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P466905)\], \[[amudanan3](https://amudanan.co.il/#!wiki=P851449)\], \[[isrealhiking](https://israelhiking.osm.org.il/poi/OSM/node_4375306175)\]
 

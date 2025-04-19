@@ -1,7 +1,7 @@
 ---
 title: "יער קולה, יער כח, אלעד 10 ק\"מ"
 excerpt: "שרידי כפר פלסטיני ומצודה, מערת קבורה"
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczM2x-C9tQQuGHS6NQuTevQu1GCsqL1vEfPwk_KZeSi_cd4XM-bWGvFJdjOKzP3MqeXnOvHl5NYbNs26YoM4aeM-c3DEMC9J9vR8XRrAcA8Wv98y6Pnc=w1300-h600"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczM2x-C9tQQuGHS6NQuTevQu1GCsqL1vEfPwk_KZeSi_cd4XM-bWGvFJdjOKzP3MqeXnOvHl5NYbNs26YoM4aeM-c3DEMC9J9vR8XRrAcA8Wv98y6Pnc=w1300-h630"
 date: "2024-05-31T05:35:07.322Z"
 txtDirrection: "rtl"
 author:

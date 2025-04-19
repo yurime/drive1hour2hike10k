@@ -24,7 +24,7 @@ gpxFileAddr: "/treksgpx/harYeelaHarim9.8km.gpx"
 [https://ul.waze.com/ul?ll=31.75000175%2C35.03983140](https://ul.waze.com/ul?ll=31.75000175%2C35.03983140)
 
 ## אטרקציות
-
+מסלול מעל נחל שורק. לא מומלץ אחרי גשם בגלל ריבוי אבנים חלקות בהר (התחלה אלטרנטיבית מול נס הרים)
 - מצפה ינאי  \[[amudanan](https://amudanan.co.il/#!wiki=P930135)\]
 - עין א שייח עין טורה  \[[amudanan](https://amudanan.co.il/#!wiki=P175587)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P289319)\]
 - עין קטלב  \[[amudanan](https://amudanan.co.il/#!wiki=P106688)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P537769)\]

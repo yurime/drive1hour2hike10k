@@ -23,6 +23,7 @@ gpxFileAddr: "/treksgpx/kulaForest10km.gpx"
 [https://ul.waze.com/ul?ll=32.03367980%2C34.95767530](https://ul.waze.com/ul?place=ChIJi2blCoszHRURHmxJZf_RRec&ll=32.03367980%2C34.95767530&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
+שרידי כפר פלסטיני ומצודה, מערת קבורה
 - מצודת קולה  -- שרידי כפר פלסטיני ומצודה. \[[amudanan](https://amudanan.co.il/#!wiki=P325636)\] \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_278476982)\]
 קוּלָה (בערבית: قولة; בטורקית: Kule, "מגדל") היה כפר ערבי בגבול השפלה ולרגלי הרי יהודה כעשרה קילומטרים מצפון-מזרח ללוד, בגובה 125 מטר מעל פני הים. 
 - מערת קבורה -- ניכרת המבואה החצובה.בתוך המערה כוכים.פתח המערה הושחת עם השנים. \[[amudanan1](https://amudanan.co.il/#!wiki=P523235)\] \[[amudanan2](https://amudanan.co.il/#!wiki=P102525)\]

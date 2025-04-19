@@ -25,7 +25,7 @@ gpxFileAddr: "/treksgpx/barBaHarSorek8.7km.gpx"
 [https://ul.waze.com/ul?venue_id=23003453.229837925.70152](https://ul.waze.com/ul?preview_venue_id=23003453.229837925.70152&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
-
+מסלול מבר בהר, נוף מעל נחל שורק וירידה עד אליו, חזרה בדרך נוף דרומית - שורק
 - בר בהר, תחנת מידע \[[amudanan](https://amudanan.co.il/#!wiki=P625160)\], \[[isrealhiking](https://israelhiking.osm.org.il/poi/OSM/node_701995196)\]
 - עין גיורא-מעין יבש \[[amudanan](https://amudanan.co.il/#!wiki=P661817)\]
 - עין קטלב  \[[amudanan](https://amudanan.co.il/#!wiki=P106688)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P537769)\], \[[isrealhiking](https://israelhiking.osm.org.il/poi/OSM/node_2306522420)\]

@@ -20,12 +20,13 @@ gpxFileAddr: "/treksgpx/beitGovrinElHishaAlimRuins9.7km.gpx"
 
 
 ## חניה
+
 צפונית ל"דלק בית גוברין" צד שני של הכביש או בדלק
 
 [https://ul.waze.com/ul?ll=31.60796204%2C34.89177346](https://ul.waze.com/ul?ll=31.60796204%2C34.89177346&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
-
+המסלול מסומן כמעט לכל אורכו: שביל ישראל+שביל ירוק
 - בורות מים ומערה \[[amudanan](https://amudanan.co.il/#!wiki=P143403)\]
 - פסיפס - מקטע קטן \[[amudanan1](https://amudanan.co.il/#!wiki=P813331)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P703470)\]
 - הכנסיה \[[amudanan](https://amudanan.co.il/#!wiki=P390816)\] -- רצפת פסיפס 

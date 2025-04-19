@@ -25,7 +25,8 @@ gpxFileAddr: "/treksgpx/mtspehModiinBenshemen10.37km.gpx"
 [https://ul.waze.com/ul?ll=31.95063887%2C34.95681052](https://ul.waze.com/ul?ll=31.95063887%2C34.95681052&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
-מסלול על בסיס הקלטת GPS (ולכן עלול לא להיות תואם לשבילים לפעמים)
+מסלול ביער בן שמן כולל מעבר ליד הפגודה.
+המסלול על בסיס הקלטת GPS (ולכן עלול לא להיות תואם לשבילים לפעמים)
 [https://www.wikiloc.com/hiking-trails/mtsph-mvdyyn-yr-bn-shmn-lmvdyym-120875509](https://www.wikiloc.com/hiking-trails/mtsph-mvdyyn-yr-bn-shmn-lmvdyym-120875509)
 - גת \[[amudanan](https://amudanan.co.il/#!wiki=P866319)\]
 - מערת קבורה \[[amudanan](https://amudanan.co.il/#!wiki=P908537)\]

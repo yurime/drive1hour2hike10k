@@ -27,7 +27,7 @@ gpxFileAddr: "/treksgpx/nesHarim9km.gpx"
 
 
 ## אטרקציות
-
+מסלול מעל נחל שורק. לא מומלץ אחרי גשם בגלל ריבוי אבנים חלקות בהר (התחלה אלטרנטיבית מהר יעלה)
 - מצפה ינאי  \[[amudanan](https://amudanan.co.il/#!wiki=P930135)\]
 - עין א שייח עין טורה  \[[amudanan](https://amudanan.co.il/#!wiki=P175587)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P289319)\]
 - עין קטלב  \[[amudanan](https://amudanan.co.il/#!wiki=P106688)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P537769)\]

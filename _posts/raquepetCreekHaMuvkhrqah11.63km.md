@@ -1,6 +1,6 @@
 ---
 title: "מוחרקה - דלית אל כרמל
-  12.07 ק\"מ"
+  11.63 ק\"מ"
 excerpt: "מסלול ליד יוקנעם ביער ונקיק נחל"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPIZ-RohBj0wbRpUgojMlBMItvOq_sPnk7296UiPrPM3r073Kd_7MHfCx-kHJYObGD32ZTKLkBVhdpX_l8bFTrbVMtvcfXDiSUGppd86s1jRoBQJR2l=w1300-h630"
 date: "2024-02-24T05:35:07.322Z"
@@ -26,7 +26,8 @@ gpxFileAddr: "/treksgpx/raquepetCreekHaMuvkhrqah11.63km.gpx"
 ## אטרקציות
 
 מסלול ליד יוקנעם ביער ונקיק נחל
-https://www.wikiloc.com/hiking-trails/nkhl-rqpt-hmvkhrqh-mgly-78957297
+
+\[[https://www.wikiloc.com/hiking-trails/nkhl-rqpt-hmvkhrqh-mgly-78957297](https://www.wikiloc.com/hiking-trails/nkhl-rqpt-hmvkhrqh-mgly-78957297)\]
 
 מעגלי שביל ישראל וחזרה דרך שמורת טבע דרך גן לאומי נחל אלכסנדר
 - מנזר המוחרקה \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/way_200211668)\],  \[[amudanan](https://amudanan.co.il/#!wiki=P603817)\] 

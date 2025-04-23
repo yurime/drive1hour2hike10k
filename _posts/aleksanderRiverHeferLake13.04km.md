@@ -13,7 +13,7 @@ wazeParking: "https://ul.waze.com/ul?venue_id=22872388.228789413.259513"
 israelHikingMap: "https://israelhiking.osm.org.il/share/5CHyYzLdPL"
 distance: 13.04 
 ascent:  43
-descent:  -43
+descent:  -48
 parkingCoords: [32.367179, 34.908508,]
 gpxFileAddr: "/treksgpx/aleksanderRiverHeferLake13.04km.gpx"
 ---

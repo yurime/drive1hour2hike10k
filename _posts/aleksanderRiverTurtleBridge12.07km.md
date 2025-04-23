@@ -1,5 +1,5 @@
 ---
-title: "יער שהם  12.07 ק\"מ"
+title: "נחל אלכסנדר גשר הצבים  12.07 ק\"מ"
 excerpt: "מעגלי שביל ישראל וחזרה דרך שמורת טבע דרך גן לאומי נחל אלכסנדר"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPxYxpWi8cGw1l2iTsMIjKww_nqkjv9mfi9e-Q37SLYZaciXtWxrYI5_VI-00ujehBUQ8tNdFfnpfs_KVI_6lZcyENM3KhIS5o-VNXBTD18DQCawyNJ=w1300-h630"
 date: "2024-03-01T05:35:07.322Z"

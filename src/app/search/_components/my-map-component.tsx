@@ -75,9 +75,8 @@ export default function MyMapComponent({posts } : MapProps) {
    
  const num_posts = posts.length;
  const markers = posts.map((post) => ([post.parkingCoords[0],post.parkingCoords[1],]as LatLngTuple) );
- const sum_y_vals = markers.reduce((acc,marker)=>(acc + marker[0]),0);
- const sum_x_vals = markers.reduce((acc,marker)=>(acc + marker[1]),0);
- const center = (num_posts == 0)? (EILAT_POS ): ([sum_y_vals/num_posts,sum_x_vals/num_posts,] as LatLngTuple);
+
+ const center = EILAT_POS;
  const [bounds, setBounds] = useState(null) as [LatLngBounds|null, (Dispatch<SetStateAction<LatLngBounds|null>>)];
  const searchParams = useSearchParams();
  const pathname = usePathname();

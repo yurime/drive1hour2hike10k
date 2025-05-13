@@ -40,7 +40,7 @@ export default async function Post(props: Params) {
           />
           <PostLinks israelHikingMap={post.israelHikingMap} gpxFileAddr={post.gpxFileAddr} wazeParking={post.wazeParking} />
           <PostBody content={content} txtDirrection={post.txtDirrection}/>
-          <Image
+          <Image 
               src={post.ogImage.url + "=w"+1300 +"-h"+630}
               alt={`Cover Image for ${post.title}`}
               className={cn("shadow-sm w-full", {

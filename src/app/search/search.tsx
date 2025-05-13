@@ -27,9 +27,6 @@ export default function Search({ keyword_pl_hold, min_len_pl_hold, max_len_pl_ho
   
   return (
     <div className="relative flex flex-1 flex-shrink-0">
-      <label htmlFor="search" className="sr-only">
-        Search
-      </label>
       <form>
         <div>
           Path min length:  km
@@ -41,7 +38,7 @@ export default function Search({ keyword_pl_hold, min_len_pl_hold, max_len_pl_ho
             onChange={(e) => {
               handleSearch(e.target.value,'min_len');
             }}
-             defaultValue={searchParams.get('min_len')?.toString()}
+             defaultValue={min_len_pl_hold}
           />
           Path max length:  km
           <input
@@ -52,7 +49,7 @@ export default function Search({ keyword_pl_hold, min_len_pl_hold, max_len_pl_ho
             onChange={(e) => {
               handleSearch(e.target.value,'max_len');
             }}
-            defaultValue={searchParams.get('max_len')?.toString()}
+            defaultValue={max_len_pl_hold}
           />
         </div>
         <div>

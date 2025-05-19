@@ -1,14 +1,13 @@
 ---
 title: "בית גוברין, חרבת אלים, קבר שייח תמים אל-דארי 9.7 ק\"מ"
 excerpt: "המסלול מסומן כמעט לכל אורכו: שביל ישראל+שביל ירוק"
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMm7oYOkruxkJRXupKjHSJwnlHMIzew-3BAoIaQjv9uHJ2LV70vTDqHJmps6OdtqEsQLWAUqfFC3PfVVI6WW5jEysYbgDwHZVb1tMr-iyyXVMNRzwAO=w1300-h630"
-date: "2024-12-21T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczOhWw9ZiFWR68YIoLhHmJ4M1_DC8y6GJqsKN9qklMXWZzBOj568eLxGrl2XTn6pkAMrhfxg-Czt3l8aB8SQ7x7rCh_7cdWc_CDb2jT5qi8CymzTG02J=w1300-h630"
+date: "2024-12-27T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-ogImage:
-  url: "https://lh3.googleusercontent.com/pw/AP1GczMm7oYOkruxkJRXupKjHSJwnlHMIzew-3BAoIaQjv9uHJ2LV70vTDqHJmps6OdtqEsQLWAUqfFC3PfVVI6WW5jEysYbgDwHZVb1tMr-iyyXVMNRzwAO"
+albumURL: "https://photos.app.goo.gl/msSrKg6obbpfdaN77"
 wazeParking: "https://ul.waze.com/ul?ll=31.60796204%2C34.89177346&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/Qod5IAACVA"
 distance: 9.73

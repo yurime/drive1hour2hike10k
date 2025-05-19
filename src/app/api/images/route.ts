@@ -7,6 +7,6 @@ export async function GET(req: NextRequest) {
     const searchParams = req.nextUrl.searchParams
     const url = searchParams.get('url') || ""
     console.log(`Trying... ${url}`);
-    const imageURLs = await getPhoto('https://photos.app.goo.gl/eHtEp9uuwHxZ9wyJ6')
+    const imageURLs = await getPhoto(url)
     return NextResponse.json(imageURLs, {status: 200});
 }

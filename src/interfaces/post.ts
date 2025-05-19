@@ -9,9 +9,7 @@ export type Post = {
   coverImage: string;
   author: Author;
   excerpt: string;
-  ogImage: {
-    url: string;
-  };
+  albumURL:  string;
 
   content: string;
   preview?: boolean;

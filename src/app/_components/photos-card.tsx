@@ -1,6 +1,8 @@
 // Code By Raja Majumdar https://github.com/r3yc0n1c/next-gphoto
 import React from 'react'
 import { setSize } from '@/services/gphoto.service';
+import cn from "classnames";
+import Image from "next/image";
 
 function PhotosCard({
     url,
@@ -11,7 +13,14 @@ function PhotosCard({
   }) {
     return (
         <div>
-            <img src={setSize(url, 500, 500)} />
+        <Image 
+      src={setSize(url, 600, 600)}
+      alt={`Album Photo `}
+      className={cn("shadow-sm w-full")}
+      width={500}
+      height={500}
+    />
+            {/*<img src={setSize(url, 500, 500) } />*/}
         </div>
     )
 }

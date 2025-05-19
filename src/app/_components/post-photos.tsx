@@ -5,11 +5,16 @@ import { useEffect, useState } from "react";
 //https://photos.app.goo.gl/J42qeQL34zJvJf6FA // Shoham Forest 2025.03
 //https://photos.app.goo.gl/eHtEp9uuwHxZ9wyJ6 // Sataf 2024.11
 //https://photos.app.goo.gl/HADraYSs4dUCVRMEA // HodHashron 2024.04
-export default function PostPhotos(){
+
+type Props = {
+  albumURL:string;
+};
+
+export default function PostPhotos({albumURL}:Props){
   const [imageURL, setImageURL] = useState([]);
   useEffect(() => {
     const fetchImages = async () => {
-      let data: any = await fetch('/api/images'+'?url=https://photos.app.goo.gl/eHtEp9uuwHxZ9wyJ6')
+      let data: any = await fetch('/api/images'+'?url='+albumURL)
       data = await data.json()
       setImageURL(data)
     }

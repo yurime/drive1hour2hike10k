@@ -4,7 +4,7 @@ import {  writeFileSync } from 'fs'
 
 
 export const getPhoto = async (galleryURL: string) => {
-    let res: any = await fetch(galleryURL)
+    let res: any = await fetch(galleryURL, {cache: 'force-cache'})
     res = await res.text()
     
     const pat = /https:\/\/lh3\.googleusercontent\.com\/pw\/AP1.*?-no/g;

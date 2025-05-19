@@ -7,8 +7,7 @@ txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-ogImage:
-  url: "https://lh3.googleusercontent.com/pw/AP1GczMvdy5mwfMnZfBV3z74aDoIJsJ8y-5iRzYNujC6Xo31cDzDul_TorWZvaDkrPhn7xt10efZZhS8eIAf3jmtaFJzKJzbsAHqRQE8fUGnkzBx4Cxquhz0"
+albumURL: "https://photos.app.goo.gl/4a9azVbeXSg8uX6o9"
 wazeParking: "https://ul.waze.com/ul?venue_id=22872388.228789413.259513"
 israelHikingMap: "https://israelhiking.osm.org.il/share/5CHyYzLdPL"
 distance: 13.04 

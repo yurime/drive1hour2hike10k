@@ -17,8 +17,8 @@ function PhotosCard({
       src={setSize(url, 600, 600)}
       alt={`Album Photo `}
       className={cn("shadow-sm w-full")}
-      width={500}
-      height={500}
+      width={1300}
+      height={630}
     />
             {/*<img src={setSize(url, 500, 500) } />*/}
         </div>

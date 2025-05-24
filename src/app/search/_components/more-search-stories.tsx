@@ -25,7 +25,7 @@ south,
   return (
     <section>
       <h2 className="mb-8 text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
-        Search result
+        Search result ({posts.length} Hikes)
       </h2>
       <MyMap  posts={posts}/>
       <h3 className="mb-8 text-5xl md:text-7xl font-bold tracking-tighter leading-tight">

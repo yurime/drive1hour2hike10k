@@ -8,7 +8,7 @@ author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: "https://photos.app.goo.gl/9xuHHfsZrkCrSPU16"
-wazeParking: "https://ul.waze.com/ul?ll=31.85932533%2C34.86503720"
+wazeParking: "https://ul.waze.com/ul?ll=31.85932533%2C34.86503720&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/EmtxL7RbD6"
 distance: 7.5 
 ascent:  49
@@ -18,8 +18,9 @@ gpxFileAddr: "/treksgpx/gibtonStreamsReserve7.5km.gpx"
 ---
 ## חניה
 בית הקברות של יציץ
+
 [https://ul.waze.com/ul?ll=31.85932533%2C34.86503720
-](https://ul.waze.com/ul?ll=31.85932533%2C34.86503720)
+](https://ul.waze.com/ul?ll=31.85932533%2C34.86503720&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
 שמורה יפה צמודה לכביש 6. סובב לב גזר חתוך לאיזור השמורה. נשרפה בשריפות של 2025

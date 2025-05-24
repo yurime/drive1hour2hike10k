@@ -8,7 +8,7 @@ author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: "https://photos.app.goo.gl/4a9azVbeXSg8uX6o9"
-wazeParking: "https://ul.waze.com/ul?venue_id=22872388.228789413.259513"
+wazeParking: "https://ul.waze.com/ul?venue_id=22872388.228789413.259513&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/5CHyYzLdPL"
 distance: 13.04 
 ascent:  43
@@ -19,7 +19,7 @@ gpxFileAddr: "/treksgpx/aleksanderRiverHeferLake13.04km.gpx"
 ## חניה
 פארק איטליה - נחל אלכסנדר - חניון
 
-[https://ul.waze.com/ul?venue_id=22872388.228789413.259513](https://ul.waze.com/ul?venue_id=22872388.228789413.259513)
+[https://ul.waze.com/ul?venue_id=22872388.228789413.259513](https://ul.waze.com/ul?venue_id=22872388.228789413.259513&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
 

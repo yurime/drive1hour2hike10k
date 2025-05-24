@@ -8,7 +8,7 @@ author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: "https://photos.app.goo.gl/8cd8nS3mEuCVEd657"
-wazeParking: "https://waze.com/ul/hsv8y5d46n"
+wazeParking: "https://ul.waze.com/ul?ll=32.00353900%2C34.96186500&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/gekKVuRHdo"
 distance: 7.19 
 ascent:  158
@@ -18,7 +18,7 @@ gpxFileAddr: "/treksgpx/shohamForest7.020km.gpx"
 ---
 ## חניה
 
-[https://waze.com/ul/hsv8y5d46n](https://waze.com/ul/hsv8y5d46n)
+[https://waze.com/ul/hsv8y5d46n](https://ul.waze.com/ul?ll=32.00353900%2C34.96186500&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
 מסלול במרכז עם פסיפס יפה. לקוח מקבוצת פייסבוק ברוסית של מטיילים.

@@ -8,7 +8,7 @@ author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: "https://photos.app.goo.gl/Pt6x1SfjFGKxMWHA9"
-wazeParking: "https://ul.waze.com/ul?preview_venue_id=22937917.229444709.299857"
+wazeParking: "https://ul.waze.com/ul?venue_id=22937917.229444709.299857&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/728UqFkQRg"
 distance: 10.15 
 ascent:  348
@@ -18,8 +18,9 @@ gpxFileAddr: "/treksgpx/teomimCave10km.gpx"
 ---
 ## חניה
 חניון מערת התאומים
+
 [https://ul.waze.com/ul?preview_venue_id=22937917.229444709.299857
-](https://ul.waze.com/ul?preview_venue_id=22937917.229444709.299857)
+](https://ul.waze.com/ul?venue_id=22937917.229444709.299857&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
 שביל נחמד ומערה יפה. לא מצאתי את עין ספלא בשני ביקורים באיזור

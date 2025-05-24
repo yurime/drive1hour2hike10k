@@ -8,7 +8,7 @@ author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: "https://photos.app.goo.gl/Lk22N1djt1mGbocd8"
-wazeParking: "https://ul.waze.com/ul?ll=31.75000175%2C35.03983140"
+wazeParking: "https://ul.waze.com/ul?ll=31.75000175%2C35.03983140&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)"
 israelHikingMap: "https://israelhiking.osm.org.il/share/jynt8fn0ah"
 distance: 9.8
 ascent:  296
@@ -20,7 +20,8 @@ gpxFileAddr: "/treksgpx/harYeelaHarim9.8km.gpx"
 
 ## חניה
 הר יעלה
-[https://ul.waze.com/ul?ll=31.75000175%2C35.03983140](https://ul.waze.com/ul?ll=31.75000175%2C35.03983140)
+
+[https://ul.waze.com/ul?ll=31.75000175%2C35.03983140](https://ul.waze.com/ul?ll=31.75000175%2C35.03983140&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
 מסלול מעל נחל שורק. לא מומלץ אחרי גשם בגלל ריבוי אבנים חלקות בהר (התחלה אלטרנטיבית מול נס הרים)

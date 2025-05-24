@@ -8,7 +8,7 @@ author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: "https://photos.app.goo.gl/Lk22N1djt1mGbocd8"
-wazeParking: "https://ul.waze.com/ul?ll=31.74609690%2C35.06280184"
+wazeParking: "https://ul.waze.com/ul?ll=31.74609690%2C35.06280184&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/tOUj4aSyWn"
 distance: 9.07
 ascent:  316
@@ -22,7 +22,7 @@ gpxFileAddr: "/treksgpx/nesHarim9km.gpx"
 בערך
 מול נס הרים
 
-[https://ul.waze.com/ul?ll=31.74609690%2C35.06280184](https://ul.waze.com/ul?ll=31.74609690%2C35.06280184)
+[https://ul.waze.com/ul?ll=31.74609690%2C35.06280184](https://ul.waze.com/ul?ll=31.74609690%2C35.06280184&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 
 ## אטרקציות

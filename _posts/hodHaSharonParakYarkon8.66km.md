@@ -8,7 +8,7 @@ author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: "https://photos.app.goo.gl/D75kPNoJknRrtYc29"
-wazeParking: " https://www.waze.com/ru/live-map/directions?navigate=yes&to=ll.32.13452181%2C34.88965888"
+wazeParking: "https://ul.waze.com/ul?ll=32.13452181%2C34.88965888&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/eOBZKNUT5N"
 distance: 8.66 
 ascent:  73
@@ -19,7 +19,7 @@ gpxFileAddr: "/treksgpx/hodHaSharonParakYarkon8.66km.gpx"
 ## חניה
  פארק הוד השרון
 
-[https://www.waze.com/ru/live-map/directions?navigate=yes&to=ll.32.13452181%2C34.88965888](https://www.waze.com/ru/live-map/directions?navigate=yes&to=ll.32.13452181%2C34.88965888)
+[https://ul.waze.com/ul?ll=32.13452181%2C34.88965888](https://ul.waze.com/ul?ll=32.13452181%2C34.88965888&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
 מסלול יפה ורגוע במרכז. טיול בשביל מוקף בקני סוף גבוהים, הר עם נוף לפארק הוד השרון, וקצת עתיקות.

@@ -14,11 +14,11 @@ function PhotosCard({
     return (
         <div>
         <Image 
-      src={setSize(url, 600, 600)}
+      src={setSize(url, 1300, 600)}
       alt={`Album Photo `}
       className={cn("shadow-sm w-full")}
       width={1300}
-      height={630}
+      height={600}
     />
             {/*<img src={setSize(url, 500, 500) } />*/}
         </div>

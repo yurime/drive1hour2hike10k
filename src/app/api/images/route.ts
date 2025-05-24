@@ -6,7 +6,7 @@ export async function GET(req: NextRequest) {
 
     const searchParams = req.nextUrl.searchParams
     const url = searchParams.get('url') || ""
-    console.log(`Trying... ${url}`);
+    //console.log(`Trying... ${url}`);
     const imageURLs = await getPhoto(url)
     return NextResponse.json(imageURLs, {status: 200});
 }

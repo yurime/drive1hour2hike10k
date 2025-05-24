@@ -99,8 +99,8 @@ export default function MyMapComponent({posts } : MapProps) {
       replace(`${pathname}?${params.toString()}`);
      }, 300);
 
- console.log(`center at ... ${center}, num_posts ${num_posts}`);
- markers.map((marker) => (console.log(`location ... ${marker[0]} , ${marker[1]}`)));
+ //console.log(`center at ... ${center}, num_posts ${num_posts}`);
+ //markers.map((marker) => (console.log(`location ... ${marker[0]} , ${marker[1]}`)));
   const [map, setMap] = useState(null) as [Map|null, (Dispatch<SetStateAction<Map|null>>)];
   const displayMap = useMemo(
     () => (<>

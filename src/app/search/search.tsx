@@ -13,7 +13,7 @@ export default function Search({ keyword_pl_hold, min_len_pl_hold, max_len_pl_ho
     const pathname = usePathname();
     const { replace } = useRouter();
     const handleSearch = useDebouncedCallback((term,label) => {
-      console.log(`Searching... ${term}`);
+      //console.log(`Searching... ${term}`);
       const params = new URLSearchParams(searchParams);
      // console.log(term);
       params.set('page', '1');
@@ -55,7 +55,7 @@ export default function Search({ keyword_pl_hold, min_len_pl_hold, max_len_pl_ho
         <div>
         Keyword in text: 
           <input
-            id='search_keywo'
+            id='search_keyword'
             className="size-fit text-sm text-center placeholder:text-gray-500 w-1/2"
             placeholder={keyword_pl_hold}
             onChange={(e) => {

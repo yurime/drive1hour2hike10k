@@ -11,8 +11,8 @@ import 'leaflet/dist/leaflet.css';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A variation on a statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `Hiking Blog based on a Next.js Blog Example with ${CMS_NAME}`,
+  description: `A Hiking Blog based on a statically generated blog example using Next.js and ${CMS_NAME}.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },

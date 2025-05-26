@@ -1,7 +1,7 @@
 'use client'
 
 import dynamic from 'next/dynamic';
-import type {MapProps } from '@/app/_components/my-map-component';
+import type {MapProps } from './my-map-component';
 
 
 export default function MyMap({position, gpxFileAddr} : MapProps) {
@@ -10,4 +10,4 @@ export default function MyMap({position, gpxFileAddr} : MapProps) {
     ssr: false,
   })
    return (<MyMapComponent position={position} gpxFileAddr={gpxFileAddr}/>)
- }
+

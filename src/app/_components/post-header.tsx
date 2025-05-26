@@ -2,7 +2,7 @@ import Avatar from "./avatar";
 import DateFormatter from "./date-formatter";
 import { PostTitle } from "@/app/_components/post-title";
 import { type Author } from "@/interfaces/author";
-import  MyMap  from "@/app/_components/my-map";
+import  MyMap  from "@/app/_components/map/my-map";
 import type { LatLngTuple } from 'leaflet'
 
 

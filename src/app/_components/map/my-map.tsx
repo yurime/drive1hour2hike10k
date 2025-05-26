@@ -10,4 +10,4 @@ export default function MyMap({position, gpxFileAddr} : MapProps) {
     ssr: false,
   })
    return (<MyMapComponent position={position} gpxFileAddr={gpxFileAddr}/>)
-
+ }

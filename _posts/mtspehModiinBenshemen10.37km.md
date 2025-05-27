@@ -1,7 +1,7 @@
 ---
 title: "מצפה מודיעין, יער בן שמן למודיעים 10.37 ק\"מ"
 excerpt: "מסלול ביער בן שמן כולל מעבר ליד הפגודה"
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczO9lWgQ_Jji8s2VGegawThU1Z97iIxDWCj2JkyQCsrUoAjar-X-KpOejRBlaw6AxsJms6HWsWVCkOXvwrfNmac07QZlxi6Jlr7_m92fVu4FOXXMWbV6=w1300-h630"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMo0TJY0RKDwtYyAxGUq2Iz9NxbsKV8oTsUpPEB9sC8lpqRummu2VC9FUx69uq1_4c3diNhoe6hxJSUCYA1zIA2vN5ZPnc4GPeWbKmRGzi-XJd5wtnk=w1300-h630"
 date: "2024-01-20T05:35:07.322Z"
 txtDirrection: "rtl"
 author:

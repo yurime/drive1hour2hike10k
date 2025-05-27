@@ -1,7 +1,7 @@
 ---
 title: "בר בהר ונחל שורק 8.7 ק\"מ"
-excerpt: "מסלול מבר בהר, נוף מעל נחל שורק וירידה עד אליו, חזרה בדרך נוף דרומית - שורק"
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNrtqExmFpn53xa1YOnbWyrTEih3vSv74jXel3vKBwnXMtPA0mLY3Opkb6TozlK-_Fv-ExCHyS9THuj75V9bh8k0Y9CxV4PaANy6a35mOt8OrBJL5x1=w1300"
+excerpt: "מסלול מבר בהר, נוף מעל נחל שורק וירידה עד אליו, וחזרה בדרך נוף דרומית - שורק"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNrtqExmFpn53xa1YOnbWyrTEih3vSv74jXel3vKBwnXMtPA0mLY3Opkb6TozlK-_Fv-ExCHyS9THuj75V9bh8k0Y9CxV4PaANy6a35mOt8OrBJL5x1=w1300-h630"
 date: "2025-05-23T05:35:07.322Z"
 txtDirrection: "rtl"
 author:

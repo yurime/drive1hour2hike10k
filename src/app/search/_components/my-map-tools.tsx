@@ -56,13 +56,23 @@ export function CaptureMouse({setMouseCoord, map}:{setMouseCoord:(Dispatch<SetSt
                                 setMouseCoord(map.mouseEventToLatLng( event.originalEvent))
                                         }, [map]
                               )
-    
+       const onMouseOut = useCallback( () => {
+                                setMouseCoord(null)
+                                        }, [map]
+                              ) 
     useEffect(() => {
                     map.on('mousemove', onMouseMove)
                     return () => {
-                                  map.off('mousemove', onMouseMove)
+                                  map.off('mousemove', onMouseOut)
                                 }
-                  }, [map, onMouseMove]
+                  }, [map, onMouseOut]
+    )
+    useEffect(() => {
+                    map.on('mouseout', onMouseOut)
+                    return () => {
+                                  map.off('mouseout', onMouseOut)
+                                }
+                  }, [map, onMouseOut]
     )
   return null
 }

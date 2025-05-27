@@ -1,6 +1,6 @@
  
 
-const HomeButton = () => {
+const SearchButton = () => {
   return(
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -13,9 +13,9 @@ const HomeButton = () => {
       <path
         strokeLinecap="round"
         strokeLinejoin="round"
-        d="M0 10 l 0 10 l 10 0 l 0 -10 l -5 -10 l -5 10 l 10 0 z"
+        d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
       />
     </svg>)
 }
 
-export default HomeButton
+export default SearchButton

@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { ThemeSwitcher } from "@/app/_components/theme-switcher";
-import SearchButton from "./search-icon";
+import { ThemeSwitcher } from "./styles/theme-switcher";
+import SearchButton from "./buttons/search-button";
 
 
 const Header = () => {

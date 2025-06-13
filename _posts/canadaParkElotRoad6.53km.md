@@ -14,7 +14,7 @@ distance: 6.53
 ascent:  137
 descent:  -137
 parkingCoords: [31.677616, 34.9278,]
-gpxFileAddr: "/treksgpx/canadaParkElotRoad6.53km.gpx"
+gpxFileAddr: "/treksgpx/canadaParkElotRoad6.51km.gpx"
 ---
 ## חניה
 חניון-שריגים

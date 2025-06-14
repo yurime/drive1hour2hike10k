@@ -33,7 +33,7 @@ export default function MyMapComponent({posts } : MapProps) {
  const searchParams = useSearchParams();
  const pathname = usePathname();
  const { replace } = useRouter();
- const postCoords = posts.map(post=>[{'parkingCoords':post.parkingCoords,
+ const postsJoinOnCoords = posts.map(post=>[{'parkingCoords':post.parkingCoords,
                                      'posts':posts.filter((spost)=> (spost.parkingCoords[0]==post.parkingCoords[0] && spost.parkingCoords[1]==post.parkingCoords[1]))}]);
 
 
@@ -58,7 +58,6 @@ export default function MyMapComponent({posts } : MapProps) {
 
  //console.log(`center at ... ${center}, num_posts ${num_posts}`);
  //markers.map((marker) => (console.log(`location ... ${marker[0]} , ${marker[1]}`)));
- console.log(`postCoords.length ... ${postCoords.length} `)
 
   const [map, setMap] = useState(null) as [Map|null, (Dispatch<SetStateAction<Map|null>>)];
   const displayMap = useMemo(
@@ -67,7 +66,7 @@ export default function MyMapComponent({posts } : MapProps) {
         {(num_posts>1) && <ChangeView center={center} markers={markers}/>}
          
         <MapLayers />
-         {postCoords.map((postC,index) => (
+         {postsJoinOnCoords.map((postC,index) => (
                              <Marker key={"marker".concat(index.toString())} position={postC[0].parkingCoords}>
                               <Popup>
                                 <ul>

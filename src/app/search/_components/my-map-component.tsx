@@ -33,6 +33,11 @@ export default function MyMapComponent({posts } : MapProps) {
  const searchParams = useSearchParams();
  const pathname = usePathname();
  const { replace } = useRouter();
+ const postCoords = posts.map(post=>[{'parkingCoords':post.parkingCoords,
+                                     'posts':posts.filter((spost)=> (spost.parkingCoords[0]==post.parkingCoords[0] && spost.parkingCoords[1]==post.parkingCoords[1]))}]);
+
+
+
  const handleSearch = useDebouncedCallback(() => {
       const params = new URLSearchParams(searchParams);
      // console.log(term);
@@ -53,6 +58,8 @@ export default function MyMapComponent({posts } : MapProps) {
 
  //console.log(`center at ... ${center}, num_posts ${num_posts}`);
  //markers.map((marker) => (console.log(`location ... ${marker[0]} , ${marker[1]}`)));
+ console.log(`postCoords.length ... ${postCoords.length} `)
+
   const [map, setMap] = useState(null) as [Map|null, (Dispatch<SetStateAction<Map|null>>)];
   const displayMap = useMemo(
     () => (<>
@@ -60,25 +67,30 @@ export default function MyMapComponent({posts } : MapProps) {
         {(num_posts>1) && <ChangeView center={center} markers={markers}/>}
          
         <MapLayers />
-         {posts.map((post) => (
-                    <Marker key={post.slug} position={post.parkingCoords}>
-                     <Popup>
-                            <Link href={`/posts/${post.slug}`} className="hover:underline">
-                                <p className="text-right">
-                                    {post.title}
-                                </p>
-                            </Link>
-                            <p className="text-right" dir="rtl">
-                                  מרחק: {post.distance} ק"מ, 
-                                  עליה: {post.ascent}מ', 
-                                 ירידה: <span dir="ltr" className='display:inline'>{post.descent} </span>מ'
-                                <br />
-                                {post.excerpt} 
-                            </p>
-                        
-                     </Popup>
-                   </Marker>
-        ))}
+         {postCoords.map((postC,index) => (
+                             <Marker key={"marker".concat(index.toString())} position={postC[0].parkingCoords}>
+                              <Popup>
+                                <ul>
+                                 { postC[0].posts.map(post => <li key={post.slug}>
+                                               <Link href={`/posts/${post.slug}`} className="hover:underline">
+                                                   <p className="text-right">
+                                                       {post.title}
+                                                   </p>
+                                               </Link>
+
+                                               <p className="text-right" dir="rtl">
+                                                     מרחק: {post.distance} ק"מ, 
+                                                     עליה: {post.ascent}מ', 
+                                                    ירידה: <span dir="ltr" className='display:inline'>{post.descent} </span>מ'
+                                                   <br />
+                                                   {post.excerpt} 
+                                               </p>
+                                           </li>)}
+                                
+                             </ul>
+                              </Popup>
+                            </Marker>
+                 ))}
         </MapContainer>
         </>
             ),

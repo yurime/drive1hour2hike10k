@@ -1,13 +1,13 @@
 ---
 title: "שביל קיסר 6.22 ק\"מ"
-excerpt: ""
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN2N_6UTvl0Zg2L_ag_RN4GxSri_ZD0wRn-b7N7tQ8vBvpB-X-nn4506BPl9eRzfFXXcNxVO020P3XimrClgn_ZyjR1QT33AJ1YjHF_5wCX1nj5r69O=w1300-h630"
-date: "2024-06-29T05:35:07.322Z"
+excerpt: "מסלול ביער עם מדרגות רומיות ובית בד משוחזר חלקית"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN2P57A6rZMuN-U2D-Ad0HuQuyfh0JS0h_siA7qsypnajkJn2r8EqLdjn7HDk32txkuF32YwDqVrC7N7EGhRbEVmSKK-EF1Le7DcSKoJnNJcfNz3tHq=w1300-h630"
+date: "2025-05-30T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-albumURL: ""
+albumURL: "https://photos.app.goo.gl/LxYBcTQGk6dy895S9"
 wazeParking: "https://ul.waze.com/ul?ll=31.71168745%2C35.04629004&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/xcFd8LB8kt"
 distance: 6.22 
@@ -23,10 +23,7 @@ gpxFileAddr: "/treksgpx/ceasarRoad6.2km.gpx"
 )
 
 ## אטרקציות
-
-חניה
-חרבת חנות
-https://ul.waze.com/ul?ll=31.71168745%2C35.04629004&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location
+מסלול ביער עם מדרגות רומיות ובית בד משוחזר חלקית. ירידה דרך יער מוצל ואז עליה בכביש עפר. ניתן להתחיל מבית הבד למסלול שחציו הראשון עליה והשני ירידה.
 
 אטרקציות
 - דרך קיסר \[[israelhiking](https://israelhiking.osm.org.il/poi/Wikidata/Q6709481)\] \[[israelhiking2](https://israelhiking.osm.org.il/poi/Nakeb/479)\] \[[nakeb](https://www.nakeb.co.il/hike/479)\] \[[amudanan](https://amudanan.co.il/#!wiki=P294765

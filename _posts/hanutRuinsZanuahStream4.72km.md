@@ -1,14 +1,14 @@
 ---
-title: "חרבת חנות נחל זנוח 4.72km"
+title: "חרבת חנות נחל זנוח 4.72 ק\"מ"
 excerpt: ""
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN2P57A6rZMuN-U2D-Ad0HuQuyfh0JS0h_siA7qsypnajkJn2r8EqLdjn7HDk32txkuF32YwDqVrC7N7EGhRbEVmSKK-EF1Le7DcSKoJnNJcfNz3tHq=w1300-h630"
-date: "2025-05-30T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMlNNUu_JjcUe49nQGnEKs7Pl42tsPBLSobPRnLxeX-UNHbcfu4cAtWsIzS1ypI748UqSLVCLi6BaFn2URCMo1N8mWt2VOuINk2EDa3mfn5OBIvfbKf=w1300-h630"
+date: "2025-06-11T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 wazeParking: "https://ul.waze.com/ul?ll=31.71168745%2C35.04629004&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
-albumURL: ""
+albumURL: "https://photos.app.goo.gl/dV8seoC9f6X6sJLd7"
 israelHikingMap: "https://israelhiking.osm.org.il/share/xx25MBbN3R"
 distance: 5.01  
 ascent:  157

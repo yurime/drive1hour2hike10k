@@ -12,8 +12,8 @@ import { PostTitle } from '../_components/post-title';
 
 const pl_hold = {
   key_word: "...מילת מפתח בטיול",
-  min_len: 9,
-  max_len: 10,
+  min_len: 0,
+  max_len: 20,
   pg_num:1,
   east: 60,
   west: 20,

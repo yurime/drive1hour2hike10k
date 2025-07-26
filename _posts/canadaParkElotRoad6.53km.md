@@ -1,6 +1,6 @@
 ---
 title: "פארק בריטניה 8.49 ק\"מ"
-excerpt: "מסלול עם מערות קולומבריום וקבורה ונוף יפה"
+excerpt: "מסלול עם מערות קולומבריום וקבורה, ונוף יפה"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczOfNO3cF8VMe8XxGyaNOjSqac4PGwYvT6J2mXoenhA8TtG9q_5_xtQrD4YXH6lL7m3TACAPwD3GFgipr_GpFgz-cn7umFmrDrdCyLa0ZAPE0XIfwgt9=w1300-h630"
 date: "2024-06-11T05:35:07.322Z"
 txtDirrection: "rtl"

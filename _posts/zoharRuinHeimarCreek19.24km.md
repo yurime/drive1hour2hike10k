@@ -1,5 +1,5 @@
 ---
-title: "מצד זהר נחל חימר"
+title: "מצד זהר נחל חימר 19.24 ק\"מ"
 excerpt: "מסלול בקושי בינוני פלוס עם נופי מדבר יפים ואפשרות למפל"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMYUqXOmRP5uBM_qDvixwPzi1XwKy5wWr5L_1VNW_mJN2wu5VxIsZoi_NvL2CNWRgCXQj68wguOM6ygXXPKzjBvsnY6taa39seOcO3BCE4bLaqMYFV_=w1300-h630"
 date: "2023-11-25T05:35:07.322Z"

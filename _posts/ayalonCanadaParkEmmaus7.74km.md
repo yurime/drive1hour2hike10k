@@ -1,6 +1,6 @@
 ---
 title: "פארק איילון קנדה אמאוס 7.74 ק\"מ"
-excerpt: ""
+excerpt: "פארק יפה (נשרף במאי 2025) וביקור מומלץ באמאוס ניקופוליס"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN2N_6UTvl0Zg2L_ag_RN4GxSri_ZD0wRn-b7N7tQ8vBvpB-X-nn4506BPl9eRzfFXXcNxVO020P3XimrClgn_ZyjR1QT33AJ1YjHF_5wCX1nj5r69O=w1300-h630"
 date: "2024-06-29T05:35:07.322Z"
 txtDirrection: "rtl"
@@ -22,6 +22,7 @@ gpxFileAddr: "/treksgpx/ayalonCanadaParkEmmaus7.74km.gpx"
 [https://ul.waze.com/ul?ll=31.84151779%2C34.99345064](https://ul.waze.com/ul?ll=31.84151779%2C34.99345064&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
+פארק יפה (לאחר לקיחת התמונות נשרף במאי 2025) וביקור מומלץ באמאוס ניקופוליס
 - פארק איילון קנדה
 \[[wishtrip](https://www.wishtrip.com/site/100520000108725)\]
 

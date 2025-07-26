@@ -1,5 +1,5 @@
 ---
-title: " דרך בורמה חלק 3 מתוך 4 מסילת ציון"
+title: " דרך בורמה חלק 3 מתוך 4 מסילת ציון 11.17 ק\"מ"
 excerpt: "מסלול חלקו שביל ישראל וחלקו דרך בורמה עם מערות ואתרי הנצחה"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMPyaBWSEi5v8FYMOvLjOTssL_NPxG2Mf98O8bBCn6QYZRKqrOXD0yuju6UeEpzJ4cWYItO9QiNwYtltuxZSNWmfxVdDS1NgVAeaQO5FSUfod-MZwYK=w1300-h630"
 date: "2024-02-03T05:35:07.322Z"

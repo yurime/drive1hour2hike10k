@@ -3,6 +3,7 @@ import React from 'react'
 import { setSize } from '@/services/gphoto.service';
 import cn from "classnames";
 import Image from "next/image";
+import Link from 'next/link';
 
 function PhotosCard({
     url,
@@ -11,17 +12,18 @@ function PhotosCard({
     url: string
     className?: string;
   }) {
+    const link = url + "=w1920-h1080"
     return (
-        <div>
+        <Link href={link}>
         <Image 
-      src={setSize(url, 1300, 600)}
+      src={setSize(link, 1300, 600)}
       alt={`Album Photo `}
       className={cn("shadow-sm w-full")}
       width={1300}
       height={600}
     />
             {/*<img src={setSize(url, 500, 500) } />*/}
-        </div>
+        </Link>
     )
 }
 

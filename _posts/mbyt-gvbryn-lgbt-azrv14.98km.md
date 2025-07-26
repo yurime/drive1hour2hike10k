@@ -37,4 +37,5 @@ gpxFileAddr: "/treksgpx/mbyt-gvbryn-lgbt-azrv14.98km.gpx"
 - קבר שייח' \[[amudanan](https://amudanan.co.il/#!wiki=P632535)\]
 - האנדרטה החסרה \[[amudanan](https://amudanan.co.il/#!wiki=P25160)\]
 - מערת קבורה \[[amudanan](https://amudanan.co.il/#!wiki=P173557)\]
+- לשבייה \[[amudanan](https://amudanan.co.il/#!wiki=P451612)] "כפר ערבי" שנבנה על ידי הצבא למטרות אימונים של לחימה בשטח בנוי
 - מערות  \[[amudanan1](https://amudanan.co.il/#!wiki=P704362)\],  \[[amudanan2](https://amudanan.co.il/#!wiki=P535767)\],  \[[amudanan3](https://amudanan.co.il/#!wiki=P155721)\], \[[amudanan4](https://amudanan.co.il/#!wiki=P810455)\]

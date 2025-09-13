@@ -1,6 +1,6 @@
 ---
 title: "תל יבנה 3.85 ק\"מ"
-excerpt: ""
+excerpt: "גן ארכאולודי מתפתח, יפה ומעניין, עם הפעלות לילדים"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPMl2_0ccJDM3El5VGjZKm3Dq_QO7mfGdVQ6C9j2hGm291zFt3K3qsirz7AWlPQ0L-bcZKikDqVFYxF66yqFVUoBLwna2t8oEe5vxSuT-TFTKuqiCxy=w1300-h630"
 date: "2025-08-22T05:35:07.322Z"
 txtDirrection: "rtl"
@@ -32,6 +32,8 @@ gpxFileAddr: "/treksgpx/telYavneh3.85km.gpx"
 [https://ul.waze.com/ul?venue_id=22806847.227740787.346507&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location](https://ul.waze.com/ul?venue_id=22806847.227740787.346507&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
+גן ארכאולודי מתפתח (ככל הנראה יתרחב אל מעבר לכביש) יפה ומעניין, עם הפעלות לילדים
+
 - "הגשר הקופץ"-הגשר הממלוכי \[[amudanan](https://amudanan.co.il/#!wiki=P370130)\], \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/way_1346758880?language=he)\], \[[inature](https://inature.info/wiki/%D7%92%D7%A9%D7%A8_%D7%99%D7%91%D7%A0%D7%94)\]
 ניתן להחנות בסמוך לאצטדיון ״כצלה״ וללכת ברגל לכיוון הפארק שנמצא ממערב לגשר
 - תל יבנה  \[[israelhiking](https://israelhiking.osm.org.il/poi/Wikidata/Q86000570)\], \[[wikipedia](https://he.wikipedia.org/wiki/%D7%AA%D7%9C%20%D7%99%D7%91%D7%A0%D7%94)\], \[[amudanan](https://amudanan.co.il/#!wiki=P937284)\]

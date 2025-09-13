@@ -1,6 +1,6 @@
 ---
-title: "חרבת מדרס 12.53 ק\"מ"
-excerpt: "מקום עשיר במערות ומבנים מרשימים במסלול מעגלי של 2 ק\"מ מתאים לילדים. והערכה למסלול ארוך למתעניינים"
+title: "חרבת מדרס 1.73 ק\"מ"
+excerpt: "מקום עשיר במערות ומבנים מרשימים במסלול מעגלי של 2 ק\"מ מתאים לילדים. ומסלול ארוך של 12 ק\"מ למתעניינים"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMb_GVjVP64IcHTSD88zL3x1DjbmLURoNZLP8PQ6Jj5xGvzEkeL5I-LfIwdJbu_kybQmclv2QS5QOHc61UPG21YqV6xwtCP26SgzAvGWe-xix_Jh2dL=w1300-h630"
 date: "2024-04-26T05:35:07.322Z"
 txtDirrection: "rtl"
@@ -9,12 +9,12 @@ author:
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: "https://photos.app.goo.gl/LZUm6CmAgoVw3wNM6"
 wazeParking: "https://ul.waze.com/ul?venue_id=22806847.227740787.346507&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
-israelHikingMap: "https://israelhiking.osm.org.il/share/Yi6UIsMi9U"
-distance: 12.53
-ascent:  258
-descent:  -257
+israelHikingMap: "https://israelhiking.osm.org.il/share/G15OE60ipl"
+distance: 1.73
+ascent:  50
+descent:  -49
 parkingCoords: [31.65497, 34.9406,]
-gpxFileAddr: "/treksgpx/midrasRuins12.5km.gpx"
+gpxFileAddr: "/treksgpx/midrasRuins1.73km.gpx"
 ---
 ## חניה
 
@@ -23,7 +23,7 @@ gpxFileAddr: "/treksgpx/midrasRuins12.5km.gpx"
 [https://ul.waze.com/ul?preview_venue_id=22872381.228985949.27512](https://ul.waze.com/ul?preview_venue_id=22872381.228985949.27512&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
-מקום עשיר במערות ומבנים מרשימים [במסלול מעגלי של 2 ק\"מ](midrasRuins1.73km) מתאים לילדים. ומסלול ארוך למתעניינים
+מקום עשיר במערות ומבנים מרשימים במסלול מעגלי של 2 ק\"מ מתאים לילדים. ו[מסלול ארוך](midrasRuins12.5km)  של 12 ק\"מ  למתעניינים
 -  חורבת מדרס -- \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_1121779864)\], \[[amudanan](https://amudanan.co.il/#!wiki=P96727)\] חורבת מדרס היא כינוי לשרידיו של יישוב חקלאי קדום, שראשיתו בתקופה ההלניסטית, ושעיקרי השרידים בו הם מהתקופה הרומית המאוחרת ומהתקופה הביזנטית, הנמצא בתחום פארק עדולם מדרום ליישוב צפרירים שבשפלת יהודה.
 - כנסיה ביזאנטית \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_1132778538)\], \[[amudanan](https://amudanan.co.il/#!wiki=P96727)\]
 - מערת הקולומבריום \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_3577493787)\], \[[amudanan](https://amudanan.co.il/#!wiki=P202773)\]
@@ -31,13 +31,3 @@ gpxFileAddr: "/treksgpx/midrasRuins12.5km.gpx"
 - בית כנסת \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_3867573757)\], \[[amudanan](https://amudanan.co.il/#!wiki=P82534)\]
 - הפרמידה \[[amudanan](https://amudanan.co.il/#!wiki=P277975)\], \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_3577494097)\]
 - מערת קבורה \[[amudanan](https://amudanan.co.il/#!wiki=P286178)\]
-- חורבת חכליל \[[amudanan](https://amudanan.co.il/#!wiki=P909965)\]
-  - מאגר מים עם מדרגות \[[amudanan](https://amudanan.co.il/#!wiki=P646931)\]
-  - קולומבריום \[[amudanan](https://amudanan.co.il/#!wiki=P584026)\]
-- חרבת לבנין \[[amudanan](https://amudanan.co.il/#!wiki=P129493)]
-  - מערת קבורה עם שלושה קמרונות \[[amudanan](https://amudanan.co.il/#!wiki=P753005)]
-  - מערת קבורה יפה עם גלוסקמה \[[amudanan](https://amudanan.co.il/#!wiki=P73300)]
-  - נקרופוליס לבנין-מערה ב' \[[amudanan](https://amudanan.co.il/#!wiki=P508081)], \[[amudanan2](https://amudanan.co.il/#!wiki=P866464)]
-- מערת דניאל \[[amudanan](https://amudanan.co.il/#!wiki=P680299)\]
-- קולומבריום ירדן \[[amudanan](https://amudanan.co.il/#!wiki=P838979)\]
-- מערת קבורה \[[amudanan](https://amudanan.co.il/#!wiki=P11934)], \[[amudanan2](https://amudanan.co.il/#!wiki=P437784)]

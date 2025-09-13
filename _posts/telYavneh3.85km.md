@@ -1,13 +1,13 @@
 ---
-title: "תל יבנה 3.85ק\"מ"
+title: "תל יבנה 3.85 ק\"מ"
 excerpt: ""
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN20lHDziKrlcWhZgJJuCPyZa09DvunmfYat5OS8GwH5sOqp2jzLcoca2oxKH_xO0v3QlUSbXxcZKr2NzWNjP1pK7jRqzEWbU0-F0wrjfR0eNaHSLtO=w1300-h630"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPMl2_0ccJDM3El5VGjZKm3Dq_QO7mfGdVQ6C9j2hGm291zFt3K3qsirz7AWlPQ0L-bcZKikDqVFYxF66yqFVUoBLwna2t8oEe5vxSuT-TFTKuqiCxy=w1300-h630"
 date: "2025-08-22T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-albumURL: ""
+albumURL: "https://photos.app.goo.gl/a1NTqriZJ9H5wU6d7"
 wazeParking: "https://ul.waze.com/ul?venue_id=22806847.227740787.346507&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/UcDuU4OS68"
 distance: 3.85

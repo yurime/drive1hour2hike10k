@@ -1,13 +1,13 @@
 ---
 title: "תל עדולם 7.14 ק\"מ"
 excerpt: " "
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN20lHDziKrlcWhZgJJuCPyZa09DvunmfYat5OS8GwH5sOqp2jzLcoca2oxKH_xO0v3QlUSbXxcZKr2NzWNjP1pK7jRqzEWbU0-F0wrjfR0eNaHSLtO=w1300-h630"
-date: "1900-01-01T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNdyC7fItRS7m2mAxKVqGpVDLgqpBhjn8vODIFU928lpr0P3b9GR4drPZgqPAXjnW6fMUbwmmt7Sn8Rst0ZrapD-QKNcU18iUrgh1daw44eaCaMMz7u=w1300-h630"
+date: "2025-09-20T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-albumURL: ""
+albumURL: "https://photos.app.goo.gl/SF1zdTph3B3jLWjS7"
 wazeParking: "https://ul.waze.com/ul?venue_id=22937917.229379165.7077&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/WuxUfSDANU"
 distance: 7.14 

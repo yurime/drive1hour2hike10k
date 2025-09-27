@@ -1,13 +1,13 @@
 ---
 title: "חרבת עומד 5 ק\"מ"
 excerpt: " "
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN20lHDziKrlcWhZgJJuCPyZa09DvunmfYat5OS8GwH5sOqp2jzLcoca2oxKH_xO0v3QlUSbXxcZKr2NzWNjP1pK7jRqzEWbU0-F0wrjfR0eNaHSLtO=w1300-h630"
-date: "1900-01-01T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczOOWdV1dYwalwQB9UjBynsxSgBBmJwcBXhQrv1fPqoTvRLLcYH4lrnH3bajnYtPpQHVvgberLwB8b9Fa922RdQi7bMvAjsFTpVGKvF2vkeAQCVQ3tiJ=w1300-h630"
+date: "2025-09-26T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-albumURL: ""
+albumURL: "https://photos.app.goo.gl/fY4qDivKn9JYQneH9"
 wazeParking: "https://ul.waze.com/ul?ll=31.65446887%2C34.96829827&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/Zjne6FRJ7g"
 distance: 5

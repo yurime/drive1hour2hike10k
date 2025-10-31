@@ -23,7 +23,7 @@ gpxFileAddr: "/treksgpx/omedRuins5km.gpx"
 
 ## אטרקציות
 - חרבת עומד \[[amudanan](https://amudanan.co.il/#!wiki=P183536)\]
-  - שרידי מבנה ומערת מגורים \[[amudanan](https://amudanan.co.il/#!wiki=P744008)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P205875\], \[[amudanan3](https://amudanan.co.il/#!wiki=P57118)\]
+  - שרידי מבנה ומערת מגורים \[[amudanan](https://amudanan.co.il/#!wiki=P744008)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P205875)\], \[[amudanan3](https://amudanan.co.il/#!wiki=P57118)\]
 - חורבת ריבוא \[[amudanan](https://amudanan.co.il/#!wiki=P206742)\]
   - בתולה של בית בד \[[amudanan](https://amudanan.co.il/#!wiki=P523177)\]
   - חולית בור מים שבורה \[[amudanan](https://amudanan.co.il/#!wiki=P436090)\]

@@ -1,5 +1,5 @@
 ---
-title: "חורבת עומד, חורבת קנים"
+title: "חורבת עומד, חורבת קנים 5.17 k\"m"
 excerpt: ""
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN20lHDziKrlcWhZgJJuCPyZa09DvunmfYat5OS8GwH5sOqp2jzLcoca2oxKH_xO0v3QlUSbXxcZKr2NzWNjP1pK7jRqzEWbU0-F0wrjfR0eNaHSLtO=w1300-h630"
 date: "1900-01-01T05:35:07.322Z"

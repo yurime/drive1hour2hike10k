@@ -17,7 +17,8 @@ parkingCoords: [31.8091,35.0746,]
 gpxFileAddr: "/treksgpx/neveIlan8.93km.gpx"
 ---
 ## חניה
-חניון בנווה אילן, יש אזהרה מ2021 על [שער אחורי לנוה אילן](https://amudanan.co.il/#!wiki=P69396) נעול והודעה מאוחרת יותר שהשער פתוח
+חניון בנווה אילן.
+יש אזהרה מ 2021 על [שער אחורי לנוה אילן](https://amudanan.co.il/#!wiki=P69396) נעול והודעה מאוחרת יותר שהשער פתוח.
 
 [https://ul.waze.com/ul?ll=31.80908804%2C35.07464120](https://ul.waze.com/ul?ll=31.80908804%2C35.07464120&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 

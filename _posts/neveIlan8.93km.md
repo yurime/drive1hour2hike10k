@@ -1,13 +1,13 @@
 ---
 title: "נווה אילן 8.93 ק\"מ"
 excerpt: ""
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN20lHDziKrlcWhZgJJuCPyZa09DvunmfYat5OS8GwH5sOqp2jzLcoca2oxKH_xO0v3QlUSbXxcZKr2NzWNjP1pK7jRqzEWbU0-F0wrjfR0eNaHSLtO=w1300-h630"
-date: "1900-01-01T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMXE7WLIC1ZKW4B5hRmFT52_tPhpee03DK9aZcer51o5B7F1HR0pkmNW3-4zDfCj6rdgTjY3zwDFSSLRclR0LimvUPshYIuXfB8VGOcDIIeRRTWdO7l=w1300-h630"
+date: "2026-01-10T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-albumURL: ""
+albumURL: "https://photos.app.goo.gl/N4BARS2kEBWr3CBW9"
 wazeParking: "https://ul.waze.com/ul?ll=31.80908804%2C35.07464120&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/DhzRYjHbRE"
 distance:   8.93

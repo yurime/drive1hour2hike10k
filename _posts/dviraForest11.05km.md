@@ -8,7 +8,7 @@ author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: "https://photos.app.goo.gl/tbLdbtdFa9Biz3Aq7"
-wazeParking: ""
+wazeParking: "https://ul.waze.com/ul?ll=31.40898900%2C34.83127400&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/36rOpCLtrw"
 distance:  11.05 
 ascent:  201
@@ -22,7 +22,9 @@ gpxFileAddr: "/treksgpx/dviraForest11.05km.gpx"
 [https://ul.waze.com/ul?ll=31.40898900%2C34.83127400](https://ul.waze.com/ul?ll=31.40898900%2C34.83127400&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)
 
 ## אטרקציות
- - חורבת מגדלית \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_8408230619)\]
- - חורבת זעק \[[inature](https://inature.info/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA%20%D7%96%D7%A2%D7%A7)\], \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_278477191)]
+ - חורבת מגדלית \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_8408230619)\], \[[amudanan](https://amudanan.co.il/#!wiki=P83222)\] מתחם מערות מגורים. שרדו שתי מערות שלמות וחלק מהשלישית
+ - חורבת זעק \[[inature](https://inature.info/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA%20%D7%96%D7%A2%D7%A7)\], \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_278477191)\], \[[amudanan](https://amudanan.co.il/#!wiki=P432346)\] כפר יהודי קדום מתקופת מרד בר כוכבא, במקום מערות מגורים, מחסנים, גתות, בורות מים, בית בד, מחילות מסתור הניתנות לזחילה.
+ - גלאל אבו רקבה \[[amudanan](https://amudanan.co.il/#!wiki=P477604)\] חרבת זעג מערות יפות מדהמות
+ - עיר תת קרקעית \[[amudanan](https://amudanan.co.il/#!wiki=P660540)] עיר תת קרקעית קדומה מתקופת המשנה השתרעת על כמה עשרות דונמים במקום ממצאים רבים מתקופת המשנה והמאות האחרונות הכוללים בורת, מבנים, ומבנים תת קרקעיים
  - באר צבי \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_2006727373)\] באר בנויה באופן שלם בקוטר כ 3 מ' ובעומק 4-5 מ'. מגודר
  - חרבת טבחן-תל א-מגדיל \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_8408230619)\], \[[amudanan](https://amudanan.co.il/#!wiki=P286130)\]

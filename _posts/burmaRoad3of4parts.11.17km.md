@@ -19,7 +19,7 @@ gpxFileAddr: "/treksgpx/burmaRoad3of4parts.11.17km.gpx"
 ## חניה
 ליד תחנת דלק פז מסילת ציון
 
-[https://www.waze.com/he/live-map/directions?navigate=yes&to=ll.31.80910179%2C35.01747251](hhttps://www.waze.com/he/live-map/directions?navigate=yes&to=ll.31.80910179%2C35.01747251)
+[https://www.waze.com/he/live-map/directions?navigate=yes&to=ll.31.80910179%2C35.01747251](https://www.waze.com/he/live-map/directions?navigate=yes&to=ll.31.80910179%2C35.01747251)
 
 ## אטרקציות
 מסלול חלקו שביל ישראל וחלקו דרך בורמה עם מערות ואתרי הנצחה.

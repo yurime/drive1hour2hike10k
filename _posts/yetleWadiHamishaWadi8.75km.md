@@ -1,6 +1,7 @@
 ---
 title: "נחל יתלה ונחל חמישה  8.75 ק\"מ"
-excerpt: ""
+excerpt: "מסלול מעגלי אל קניון קצר בהרי ירושלים.
+מעגלי, מסומן לכל אורכו."
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPSwrkH8MVXlMO31dPklpe0cSOaYLk7EccM_XHVKm8E7wAhgc8KXtMq7W0cV8-L1zcVc5zYuYJQxuFg5HUjN20F2ihERZ25IQXIrt8Fp1G0kmaIHpEb=w1300-h630"
 date: "2025-10-31T05:35:07.322Z"
 txtDirrection: "rtl"
@@ -25,4 +26,4 @@ gpxFileAddr: "/treksgpx/yetleWadiHamishaWadi8.75km.gpx"
 [https://www.nakeb.co.il/hike/365](https://www.nakeb.co.il/hike/365)
 מסלול מעגלי אל קניון קצר בהרי ירושלים.
 מעגלי, מסומן לכל אורכו.
- - הר שוכה ותל שוכה \[[israelhiking](https://israelhiking.osm.org.il/poi/Nakeb/230)\], \[[nakeb](https://www.nakeb.co.il/hike/230)\]
+ - בית ת'ול \[[israelhiking](https://israelhiking.osm.org.il/poi/Wikidata/Q4874919)\], \[[wikipedia](https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA%20%D7%AA'%D7%95%D7%9C)\]

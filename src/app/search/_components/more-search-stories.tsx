@@ -27,7 +27,10 @@ south,
       <h2 className="mb-8 text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
         Search result ({posts.length} Hikes)
       </h2>
-      <MyMap  posts={posts}/>
+      { (posts.length > 0)? 
+                 <MyMap  posts={posts}/> 
+                 : null
+      }
       <h3 className="mb-8 text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
         List
       </h3>

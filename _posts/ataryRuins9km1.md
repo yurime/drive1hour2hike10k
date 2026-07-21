@@ -30,7 +30,7 @@ gpxFileAddr: "/treksgpx/ataryRuins9km1.gpx"
  - מערת בית המספד \[[amudanan](https://amudanan.co.il/#!wiki=P244896)\]--- מערת קבורה מימי בית שני
  - מערת הבוקרניום  \[[amudanan](hhttps://amudanan.co.il/#!wiki=P558523)\] --- מערת קבורה פגאנית מהתקופה הרומית
  - חורבת בורגין  \[[wiki](https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA%20%D7%91%D7%95%D7%A8%D7%92%D7%99%D7%9F)], \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_7236345835)\], \[[amudanan](https://amudanan.co.il/#!wiki=P567121)\] --- אתר עתיקות הנמצא בראש גבעה החולשת על סביבותיה, ברום 440 מ' מעל פני הים.
- - כנסיה ביזנטית
+ - כנסיה ביזנטית \[[israelhiking](https://israelhiking.osm.org.il/poi/OSM/node_7235007586)\]
  
  ## קרוב למסלול
  -  חורבת קרומית  \[[wiki](http://www.hadashot-esi.org.il/report_detail.aspx?id=40&mag_id=108)\] --- שרידי מבנים, בורות מים, מיתקנים חצובים, מקוואות, מערות קבורה, חציבות ומערכת מסתור.

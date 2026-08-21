@@ -1,8 +1,8 @@
 ---
 title: " דרך בורמה חלק 2 מתוך 4 ממצפה הראל 9.33 ק\"מ"
 excerpt: "לולאה על דרך בורמה. נוף ואתרי הנצחה"
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMNBfuOhy-WN5QUDGg0n_rIoBfEz9A94lGEqFW6UlOAeT9Tjx_D8yiNpiJg8JC_JmJbA-XCKu2ecpJ_qJmNRgKygDcsE6YGfhEqRPGBkDdk4293SZaE=w1300-h630"
-date: "2024-09-27T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNzdX1gvNh9r1XOayvR1UYPXRfqiyybcDBYsBOkVXQwFWxmByTxXRXJ4mlq03HFdWE6AjMMYTW0956hfXuf7FLHCZfRQgecTBz8X8JNtdszsbYrZNPI=w1300-h630"
+date: "2024-09-06T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman

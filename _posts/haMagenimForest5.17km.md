@@ -1,13 +1,13 @@
 ---
 title: "יער המגינים 5.17 ק\"מ"
 excerpt: ""
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN20lHDziKrlcWhZgJJuCPyZa09DvunmfYat5OS8GwH5sOqp2jzLcoca2oxKH_xO0v3QlUSbXxcZKr2NzWNjP1pK7jRqzEWbU0-F0wrjfR0eNaHSLtO=w1300-h630"
-date: "1900-01-01T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNWtFFNA3h34LMym4Ss-lGKarxD8gI4V2pG9kKH6WTCtxtaYK3OLZ7u7m39WiV0t-rEmc9WSX3BI8ofzFFBE4jNn2L6q_jfczJUCM5_Stg0IRnZebQA=w1300-h630"
+date: "2026-08-12T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-albumURL: ""
+albumURL: "https://photos.app.goo.gl/aquz1YbpR1zCCP4Q8"
 wazeParking: "https://ul.waze.com/ul?ll=31.83431724%2C34.91040945&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://israelhiking.osm.org.il/share/XhtQphtF8D"
 distance:  5.17 

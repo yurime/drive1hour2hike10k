@@ -1,15 +1,15 @@
 ---
 title: "הגבעות הדרומיות מודיעין"
 excerpt: ""
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN20lHDziKrlcWhZgJJuCPyZa09DvunmfYat5OS8GwH5sOqp2jzLcoca2oxKH_xO0v3QlUSbXxcZKr2NzWNjP1pK7jRqzEWbU0-F0wrjfR0eNaHSLtO=w1300-h630"
-date: "1900-01-01T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPsfn5am4egcgQa3fP9OT0e-2E_USdkbNeIL86hEvcFZRhJ9PX88zmOBdKGsLwxa_uhIgu-u_3LiDD4aRlNANqtQ5Oq66YdsTvKCyP3rcgZTmFUxUoJ=w1300-h630"
+date: "2026-08-23T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-albumURL: ""
-wazeParking: ""
-israelHikingMap: ""
+albumURL: "https://photos.app.goo.gl/m7wr16Fi4VmUQ9Bv7"
+wazeParking: "https://ul.waze.com/ul?ll=31.87963860%2C35.01834010&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+israelHikingMap: "https://mapeak.com/share/7rhfBV3h3C"
 distance:  5.76 
 ascent:  124
 descent:  -123

@@ -1,13 +1,13 @@
 ---
-title: "פארק איילון קנדה מאגר מסילת ציון"
+title: "פארק איילון קנדה בית הקשתות"
 excerpt: ""
-coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN20lHDziKrlcWhZgJJuCPyZa09DvunmfYat5OS8GwH5sOqp2jzLcoca2oxKH_xO0v3QlUSbXxcZKr2NzWNjP1pK7jRqzEWbU0-F0wrjfR0eNaHSLtO=w1300-h630"
-date: "1900-01-01T05:35:07.322Z"
+coverImage: "https://lh3.googleusercontent.com/pw/AP1GczOtZyxmSTy3AJ1Wm4s49qRCntyiJyFxSoiY7EqQLCQ0SspXIQTN2ekDblmp1k2scH7aXUuPjbHzkq6IdoTlHrTJjo2N3IsA-HfYOgl1YHBzeX1wuGF3=w1300-h630"
+date: "2026-10-10T05:35:07.322Z"
 txtDirrection: "rtl"
 author:
   name: Yuri Meshman
   picture: "/assets/blog/authors/yuri.jpeg"
-albumURL: ""
+albumURL: "https://photos.app.goo.gl/HgS6ozdMVYLSaBMX7"
 wazeParking: "https://ul.waze.com/ul?venue_id=22937918.229575793.3014&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
 israelHikingMap: "https://mapeak.com/share/39i7jyyH7y"
 distance:  8.34 
@@ -25,4 +25,11 @@ gpxFileAddr: "/treksgpx/AylonCanadaParkArcsHouse8.34km.gpx"
 [https://baliletayel.co.il/israeltrip/בית-הקשתות-ליד-מבוא-חורון/](https://baliletayel.co.il/israeltrip/%D7%91%D7%99%D7%AA-%D7%94%D7%A7%D7%A9%D7%AA%D7%95%D7%AA-%D7%9C%D7%99%D7%93-%D7%9E%D7%91%D7%95%D7%90-%D7%97%D7%95%D7%A8%D7%95%D7%9F/)
 
 ## אטרקציות
- - הר שוכה ותל שוכה \[[israelhiking](https://israelhiking.osm.org.il/poi/Nakeb/230)\], \[[nakeb](https://www.nakeb.co.il/hike/230)\]
+ - בית הקשתות \[[israelhiking](https://mapeak.com/poi/OSM/node_1295048583)\], \[[amudanan](https://amudanan.co.il/#!wiki=P986960)\], \[[nelech](http://nelech.co.il/2020/03/19/%D7%91%D7%99%D7%AA-%D7%94%D7%A7%D7%A9%D7%AA%D7%95%D7%AA/)\]
+ - מערות \[[amudanan](https://amudanan.co.il/#!wiki=P188009)\]
+ - מערת שני הפתחים \[[amudanan](https://amudanan.co.il/#!wiki=P762868)\]
+ - תצפית תל קוקה \[[amudanan](https://amudanan.co.il/#!wiki=P232531)\]
+ - מבצר צלבני \[[amudanan](https://amudanan.co.il/#!wiki=P232531)\], \[[amudanan2](https://amudanan.co.il/#!wiki=P326185)\]
+ - דרך בורמה הירדנית \[[amudanan](https://amudanan.co.il/#!wiki=P637469)\]
+ - מצפה מבוא חורון \[[amudanan](https://amudanan.co.il/#!wiki=P750913)\]
+ 

@@ -1,5 +1,5 @@
 ---
-title: "פארק איילון קנדה בית הקשתות"
+title: "פארק איילון קנדה בית הקשתות 8.34 ק\"מ"
 excerpt: ""
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczOtZyxmSTy3AJ1Wm4s49qRCntyiJyFxSoiY7EqQLCQ0SspXIQTN2ekDblmp1k2scH7aXUuPjbHzkq6IdoTlHrTJjo2N3IsA-HfYOgl1YHBzeX1wuGF3=w1300-h630"
 date: "2026-10-10T05:35:07.322Z"

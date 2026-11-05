@@ -9,6 +9,7 @@ import { PostHeader } from "@/app/_components/post-header";
 import { PostLinks }  from "@/app/_components/post-links";
 import PostPhotos from "@/app/_components/post-photos"
 
+import  MyMap  from "@/app/_components/map/my-map";
 export default async function Post(props: Params) {
   const params = await props.params;
   const post = getPostBySlug(params.slug);
@@ -32,11 +33,10 @@ export default async function Post(props: Params) {
             distance={post.distance}
             ascent={post.ascent}
             descent={post.descent}
-            parkingCoords={post.parkingCoords}
-            gpxFileAddr={post.gpxFileAddr}
           />
           <PostLinks israelHikingMap={post.israelHikingMap} gpxFileAddr={post.gpxFileAddr} wazeParking={post.wazeParking} />
 
+          <MyMap position={post.parkingCoords} gpxFileAddr={post.gpxFileAddr}/>
           <PostBody content={content} txtDirrection={post.txtDirrection} />
           {(post.albumURL) && <div dir="rtl" className="text-3xl mt-12 mb-4 leading-snug">תמונות<PostPhotos albumURL={post.albumURL}/></div>}
         </article>

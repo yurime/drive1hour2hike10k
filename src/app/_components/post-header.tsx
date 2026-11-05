@@ -2,7 +2,6 @@ import Avatar from "./avatar";
 import DateFormatter from "./styles/date-formatter";
 import { PostTitle } from "@/app/_components/post-title";
 import { type Author } from "@/interfaces/author";
-import  MyMap  from "@/app/_components/map/my-map";
 import type { LatLngTuple } from 'leaflet'
 
 
@@ -14,19 +13,15 @@ type Props = {
   distance: number;
   ascent: number;
   descent: number;
-  parkingCoords: LatLngTuple;
-  gpxFileAddr : string;
 };
 
-export function PostHeader({ title, israelHikingMap, date, author,distance, ascent, descent, parkingCoords, gpxFileAddr }: Props) {
+export function PostHeader({ title, israelHikingMap, date, author,distance, ascent, descent }: Props) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
       <div className="hidden md:block md:mb-12">
         <Avatar name={author.name} picture={author.picture} />
       </div>
-
-      <MyMap position={parkingCoords} gpxFileAddr={gpxFileAddr}/>
         
       <div className="max-w-2xl mx-auto">
         <div className="block md:hidden mb-6">

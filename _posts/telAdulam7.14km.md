@@ -1,5 +1,5 @@
 ---
-title: "תל עדולם 7.14 ק\"מ"
+title: "תל עדולם"
 excerpt: " "
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNdyC7fItRS7m2mAxKVqGpVDLgqpBhjn8vODIFU928lpr0P3b9GR4drPZgqPAXjnW6fMUbwmmt7Sn8Rst0ZrapD-QKNcU18iUrgh1daw44eaCaMMz7u=w1300-h630"
 date: "2025-09-20T05:35:07.322Z"

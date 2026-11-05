@@ -1,5 +1,5 @@
 ---
-title: "דרך בורמה חלק 4 ממסילת ציון 9.40 ק\"מ"
+title: "דרך בורמה חלק 4 ממסילת ציון"
 excerpt: "לולאה על דרך בורמה, שלוחת השיירות על שביל ישראל ודרך ג'פים בחזרה"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMTM87_zKSp29UFVMykomsNyNEC3jlMLJjBIXk2_Uw7-RZCJZ4138s5bZp-xlmbNtpWkLxH1Grw4YCbcd9WvwcQoa6YEh3bytEjOjl-j0WKfGmjHauD=w1300-h630"
 date: "2024-09-27T05:35:07.322Z"

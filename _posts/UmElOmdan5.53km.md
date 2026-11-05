@@ -1,5 +1,5 @@
 ---
-title: "אום אל עומדן 5.53 ק\"מ"
+title: "אום אל עומדן"
 excerpt: "מסלול קצר ויפה"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczOKUN8Q39mziJaW39b1BmELS6Z8kOK7O_BEvKGNz0Ab-5QVc774WrATU6YuCyorOQtkUUmsgZF0Ph9Ga7n6liI5hu94nKjysB95eBniQLzsVpWOdPds=w1300-h630"
 date: "2026-10-01T05:35:07.322Z"

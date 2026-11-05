@@ -1,5 +1,5 @@
 ---
-title: "שמורת פולג 10.94 ק\"מ"
+title: "שמורת פולג"
 excerpt: "מסלול נוף הררי וים"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczO9ZUaKWBPk0JKvDOpKhAMyPjcZEjwomolWzZPrxoWMONiW6X-9DtoalB1BMlKR7Rsb7lYJ2bkmmNDQZtiLF1kL3FaKsBbTtFnH1VOVT3nkw5bRTCHq=w1300-h630"
 date: "2024-05-03T05:35:07.322Z"

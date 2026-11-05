@@ -1,5 +1,5 @@
 ---
-title: "נחל אלכסנדר שביל השרון, תל חפר, ועגמון חפר 13.04 ק\"מ"
+title: "נחל אלכסנדר שביל השרון, תל חפר, ועגמון חפר"
 excerpt: "מסלול יפה ורגוע"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMvdy5mwfMnZfBV3z74aDoIJsJ8y-5iRzYNujC6Xo31cDzDul_TorWZvaDkrPhn7xt10efZZhS8eIAf3jmtaFJzKJzbsAHqRQE8fUGnkzBx4Cxquhz0=w1300-h630"
 date: "2024-03-08T05:35:07.322Z"

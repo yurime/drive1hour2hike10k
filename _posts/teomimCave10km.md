@@ -1,5 +1,5 @@
 ---
-title: "מערת התאומים 10.15 ק\"מ"
+title: "מערת התאומים"
 excerpt: "שביל נחמד ומערה יפה"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMMHxt1dCM7x8AmS4sAb3-TR_Mh8RkDlU6XGN489fwErSjNO4KfBr1Qt8oS6DlKdi4XuO5WrCYYuypigp-MGrOh7OyaNbNE8qlMOagxlOgVPpCYHmBg=w1300-h630"
 date: "2024-04-12T05:35:07.322Z"

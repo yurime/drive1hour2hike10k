@@ -1,5 +1,5 @@
 ---
-title: "חרבּת אלתַנוּר ודרבן 7.26 ק\"מ"
+title: "חרבּת אלתַנוּר ודרבן"
 excerpt: "טבע ועתיקות, ניתן לקצר מסלול ל-6.17ק\"מ"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPSMcfZM8IPzWk6rk6BUVIjhbPCOnrFJJOeJ2hNn7nR57nojDHVmpl7hFGuBwrDj19TIWxapz-PwCpBVGMYnoYJJTb5lB4A3JOuok0kf6ZX-xRF3XoO=w1300-h630"
 date: "2025-06-06T05:35:07.322Z"

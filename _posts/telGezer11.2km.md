@@ -1,5 +1,5 @@
 ---
-title: "תל גזר 11.26 ק\"מ"
+title: "תל גזר"
 excerpt: "נוף של הרים ויער, עם עתיקות ומערות עטלפים"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczM2WNLsvdBFftAap57vbOT3SpqeQTBaBnKOmweTFxZRNaXmoVzZFVk-xImfZzkb8UOxtgJnI0fyOx3PTrZlaQvkmaj6E-MeM5JThsJkU8Bwd9_gggfC=w1300-h630"
 date: "2024-05-11T05:35:07.322Z"

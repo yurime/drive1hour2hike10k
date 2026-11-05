@@ -1,5 +1,5 @@
 ---
-title: "פארק איילון קנדה אמאוס 7.74 ק\"מ"
+title: "פארק איילון קנדה אמאוס"
 excerpt: "פארק יפה (נשרף במאי 2025) וביקור מומלץ באמאוס ניקופוליס"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN2N_6UTvl0Zg2L_ag_RN4GxSri_ZD0wRn-b7N7tQ8vBvpB-X-nn4506BPl9eRzfFXXcNxVO020P3XimrClgn_ZyjR1QT33AJ1YjHF_5wCX1nj5r69O=w1300-h630"
 date: "2024-06-29T05:35:07.322Z"

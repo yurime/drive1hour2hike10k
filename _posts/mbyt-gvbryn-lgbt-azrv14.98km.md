@@ -1,5 +1,5 @@
 ---
-title: "בית גוברין 14.98  ק\"מ"
+title: "בית גוברין"
 excerpt: "מסלול סביב גן לאומי בית גוברין עם מערות ואתרי הנצחה"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNHd2rFYu3S4XDyJPHPWpEPRr3_vphIqWg4sgbgLIfE29bW-_8MickAwq--UVOKj7jvpjNuLCaC-SNzl3a09MIaQpgz4EYuxqzfBGYHgjuBbH0Vtnts=w1300-h630"
 date: "2024-03-15T05:35:07.322Z"

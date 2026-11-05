@@ -1,5 +1,5 @@
 ---
-title: "שפך נחל שורק וחוף פלמחים 5.85 ק\"מ"
+title: "שפך נחל שורק וחוף פלמחים"
 excerpt: " ליד רצועת חוף יפה ותצפית מעולה.
 מסומן לכל אורכו, אפשרות כניסה למים, טיול פריחה, מתאים לכלבים."
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPITOiFXUtoDSOLZGjdtI_3DjBMMPJddZ-1Q6yvfk9ydbgYm7fGvfCvBQYWUnEvvRc-tGvvtSEXGWfkwn51caTvMZmYues26CrCItbPBNiOpGg2wRux=w1300-h630"

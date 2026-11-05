@@ -1,5 +1,5 @@
 ---
-title: "נחם-עמוד אש-כסלון 11.30 ק\"מ"
+title: "נחם-עמוד אש-כסלון"
 excerpt: "מסלול יפה אבל המעבר מים בעייתי"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNXLPg_1fD4OmLW_CcZOul9d7oeVL_Xazxskt-vKgFKtqWuWm-P3__6UfhsLZ6akkD_ghK2eTWjjnXGVY6X7JdmtAA9gzZ8PZttUcEEKoz4RK5CPwyH=w1300-h630"
 date: "2024-02-10T05:35:07.322Z"

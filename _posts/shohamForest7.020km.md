@@ -1,5 +1,5 @@
 ---
-title: "יער שהם  7.19 ק\"מ"
+title: "יער שהם"
 excerpt: "מסלול במרכז עם פסיפס יפה"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPxWKxURuCFmeUOEw3ruByLEQKvgEJ9UkmNlyrUzb1dJ8qdIHxGNj_aYOJTWIgCe6vv8zk3Ew3ix2jmgc08WS_tAWfKvk8m4zyT3S_KwICcmweHmjEI=w1300-h630"
 date: "2025-03-01T05:35:07.322Z"

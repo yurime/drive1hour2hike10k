@@ -1,5 +1,5 @@
 ---
-title: "שביל השרון שביל ישראל  8.66 ק\"מ"
+title: "שביל השרון שביל ישראל"
 excerpt: "מסלול יפה ורגוע במרכז"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPk_mxlv-4eEeQdqDaFVANbtgK5uIxVYdLEb0A-4Q1s_v4kZZ-8h108SEQBOTJdJUmxGRoBSdcyQ3j6BMNVyi6PxqSPl-Wm97vwMu1FxoqU0dFDDSIq=w1300-h630"
 date: "2024-04-05T05:35:07.322Z" #<!-- 31.01.2025 -->

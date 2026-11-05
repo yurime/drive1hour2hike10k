@@ -1,5 +1,5 @@
 ---
-title: "בית גוברין 3.46 ק\"מ"
+title: "בית גוברין"
 excerpt: "טיול קצר ליד פארק לאומי בית גוברין וכניסה לפארק (הכניסה בתשלום)"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNXjmcFSjAqhY8l2HlhcRXZ1DRmzZNJ8D5crwEYL56aH4d2zER3bXVIghdzv4zD9l3OnGNijspS85NNfLl_4v1SxiRudexjE3qU3RgTdFRrCtX9Ef4p=w1300-h630"
 date: "2025-08-22T05:35:07.322Z"

@@ -1,5 +1,5 @@
 ---
-title: "שמורת עיינות גבתון  7.5 ק\"מ"
+title: "שמורת עיינות גבתון"
 excerpt: "שמורה יפה צמודה לכביש 6"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPPyb4ZaqpMyZA4ALJu42Ca5jVUkYqdxEG5E5w5QkRpsJdNkk_lg2cnoSMtnvgFKxIalqyNjVUnAZyHgJmYHxWc1jKJup4fL3uqprwyO0eya-EPdI7V=w1300-h630"
 date: "2024-08-21T05:35:07.322Z"

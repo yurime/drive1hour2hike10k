@@ -1,5 +1,5 @@
 ---
-title: "שביל קיסר 6.22 ק\"מ"
+title: "שביל קיסר"
 excerpt: "מסלול ביער עם מדרגות רומיות ובית בד משוחזר חלקית"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczN2P57A6rZMuN-U2D-Ad0HuQuyfh0JS0h_siA7qsypnajkJn2r8EqLdjn7HDk32txkuF32YwDqVrC7N7EGhRbEVmSKK-EF1Le7DcSKoJnNJcfNz3tHq=w1300-h630"
 date: "2025-05-30T05:35:07.322Z"

@@ -1,5 +1,5 @@
 ---
-title: "נחל יתלה ונחל חמישה  8.75 ק\"מ"
+title: "נחל יתלה ונחל חמישה"
 excerpt: "מסלול מעגלי אל קניון קצר בהרי ירושלים.
 מעגלי, מסומן לכל אורכו."
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPSwrkH8MVXlMO31dPklpe0cSOaYLk7EccM_XHVKm8E7wAhgc8KXtMq7W0cV8-L1zcVc5zYuYJQxuFg5HUjN20F2ihERZ25IQXIrt8Fp1G0kmaIHpEb=w1300-h630"

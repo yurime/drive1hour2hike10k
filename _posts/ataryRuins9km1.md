@@ -1,5 +1,5 @@
 ---
-title: "פארק עדולם, חורבת עתרי וחורבת בורגין 9.1 ק\"מ"
+title: "פארק עדולם, חורבת עתרי וחורבת בורגין"
 excerpt: "נוף יפה חורבות ומערות עם שילוטי הסבר"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczO1InIqpAkNydPfC6Vx2dIDsx1s8Mbi_wwGVo7XEAJ7ApnCahfTGelEpPpIeS_MyqtugEMYHxKU24omLoJ_Qv5lWGkWgKlUkciOWzvpCnFn7b8PgU10=w1300-h630"
 date: "2024-04-23T05:35:07.322Z"

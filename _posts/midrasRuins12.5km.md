@@ -1,5 +1,5 @@
 ---
-title: "חרבת מדרס 12.53 ק\"מ"
+title: "חרבת מדרס"
 excerpt: "מקום עשיר במערות ומבנים מרשימים במסלול מעגלי של 2 ק\"מ מתאים לילדים. והערכה למסלול ארוך למתעניינים"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMb_GVjVP64IcHTSD88zL3x1DjbmLURoNZLP8PQ6Jj5xGvzEkeL5I-LfIwdJbu_kybQmclv2QS5QOHc61UPG21YqV6xwtCP26SgzAvGWe-xix_Jh2dL=w1300-h630"
 date: "2024-04-26T05:35:07.322Z"

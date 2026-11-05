@@ -1,5 +1,5 @@
 ---
-title: "סובב הר טייסים 6.41 ק\"מ"
+title: "סובב הר טייסים"
 excerpt: "מסלול הררי ונופי, עובר בגלעד לטייסים ומעיין יפה"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMRD9kuICOOf6zqjplsv1z_bPhWcbx62MS0k3h0f4EWjrdKxZD_ueFtUBEQc8eFtxIV_Fms6FB77rg3nljTEu9DlhAWVlaHQwW6N_roGKlo59ldQ66h=w1300-h630"
 date: "2026-08-08T05:35:07.322Z"

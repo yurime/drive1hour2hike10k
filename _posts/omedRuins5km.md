@@ -1,5 +1,5 @@
 ---
-title: "חרבת עומד 5 ק\"מ"
+title: "חרבת עומד"
 excerpt: " "
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczOOWdV1dYwalwQB9UjBynsxSgBBmJwcBXhQrv1fPqoTvRLLcYH4lrnH3bajnYtPpQHVvgberLwB8b9Fa922RdQi7bMvAjsFTpVGKvF2vkeAQCVQ3tiJ=w1300-h630"
 date: "2025-09-26T05:35:07.322Z"

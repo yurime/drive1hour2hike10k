@@ -1,5 +1,5 @@
 ---
-title: "תל יבנה 3.85 ק\"מ"
+title: "תל יבנה"
 excerpt: "גן ארכאולודי מתפתח, יפה ומעניין, עם הפעלות לילדים"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPMl2_0ccJDM3El5VGjZKm3Dq_QO7mfGdVQ6C9j2hGm291zFt3K3qsirz7AWlPQ0L-bcZKikDqVFYxF66yqFVUoBLwna2t8oEe5vxSuT-TFTKuqiCxy=w1300-h630"
 date: "2025-08-22T05:35:07.322Z"

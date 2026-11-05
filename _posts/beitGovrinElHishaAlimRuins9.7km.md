@@ -1,5 +1,5 @@
 ---
-title: "בית גוברין, חרבת אלים, קבר שייח תמים אל-דארי 9.7 ק\"מ"
+title: "בית גוברין, חרבת אלים, קבר שייח תמים אל-דארי"
 excerpt: "המסלול מסומן כמעט לכל אורכו: שביל ישראל+שביל ירוק"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczOhWw9ZiFWR68YIoLhHmJ4M1_DC8y6GJqsKN9qklMXWZzBOj568eLxGrl2XTn6pkAMrhfxg-Czt3l8aB8SQ7x7rCh_7cdWc_CDb2jT5qi8CymzTG02J=w1300-h630"
 date: "2024-12-27T05:35:07.322Z"

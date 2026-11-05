@@ -1,5 +1,5 @@
 ---
-title: "יער קולה, יער כח, אלעד 10 ק\"מ"
+title: "יער קולה, יער כח, אלעד"
 excerpt: "שרידי כפר פלסטיני ומצודה, מערת קבורה"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMaCaqGDEdefoFYPb8C277IIYKmZULWFnQVrabi9XAc8twC45qc3A4bLB29FbBd2_Ve8bY9zhb1Mu0bVpFg5IW_RDenMoqxQP_S_gB9vX7Y-kGOO5Aw=w1300-h630"
 date: "2024-05-31T05:35:07.322Z"

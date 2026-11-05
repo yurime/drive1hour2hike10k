@@ -1,5 +1,5 @@
 ---
-title: "הגבעות הדרומיות מודיעין 5.75 ק\"מ"
+title: "הגבעות הדרומיות מודיעין"
 excerpt: ""
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPsfn5am4egcgQa3fP9OT0e-2E_USdkbNeIL86hEvcFZRhJ9PX88zmOBdKGsLwxa_uhIgu-u_3LiDD4aRlNANqtQ5Oq66YdsTvKCyP3rcgZTmFUxUoJ=w1300-h630"
 date: "2026-08-23T05:35:07.322Z"

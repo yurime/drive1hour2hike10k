@@ -26,7 +26,7 @@ export default async function Post(props: Params) {
         {/*<Header />*/}
         <article className="mb-32">
           <PostHeader
-            title={post.title}
+            title={post.title + " " + post.distance+ " " + "ק\"מ"}
             israelHikingMap={post.israelHikingMap}
             date={post.date}
             author={post.author}

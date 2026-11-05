@@ -1,5 +1,5 @@
 ---
-title: "יער דבירה וחורבת מגדלית 11.05 ק\"מ"
+title: "יער דבירה וחורבת מגדלית"
 excerpt: "נוף הררי ומיוער עם מערות וחורבות"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNAZdTg3qLU6Sl4V9Wj44ma5leDYQWGjWDLhYTTcj_AxO5gYmUBZXacc70L5a1oFLOKozMFfXbFzGS-Np_IGjGF6KHcsZtVjS3MYyCkvZT6-rjgUK3P=w1300-h630"
 date: "2024-03-24T05:35:07.322Z"

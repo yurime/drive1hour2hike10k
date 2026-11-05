@@ -1,6 +1,5 @@
 ---
-title: "מוחרקה - דלית אל כרמל
-  11.63 ק\"מ"
+title: "מוחרקה - דלית אל כרמל"
 excerpt: "מסלול ליד יוקנעם ביער ונקיק נחל"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczPIZ-RohBj0wbRpUgojMlBMItvOq_sPnk7296UiPrPM3r073Kd_7MHfCx-kHJYObGD32ZTKLkBVhdpX_l8bFTrbVMtvcfXDiSUGppd86s1jRoBQJR2l=w1300-h630"
 date: "2024-02-24T05:35:07.322Z"

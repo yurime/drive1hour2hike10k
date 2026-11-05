@@ -16,7 +16,7 @@ export default function Index() {
       <Container>
         <Intro />      
         <HeroPost
-          title={heroPost.title}
+          title={heroPost.title + " " + heroPost.distance + " " + "ק\"מ"}
           coverImage={heroPost.coverImage}
           date={heroPost.date}
           author={heroPost.author}

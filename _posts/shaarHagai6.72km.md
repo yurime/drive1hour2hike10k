@@ -1,5 +1,5 @@
 ---
-title: "שמורת חאן שער הגיא 6.72 ק\"מ"
+title: "שמורת חאן שער הגיא"
 excerpt: "מסלול עם נוף הררי ועתיקות"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNXawOsCg6Ybof12A7EYJoJ3DfHOFT0mVUYCBMFiNTIunO1k8J2D7CdNQyF4yoe0DJakp3YYN4j-SBtP-E4E34xxZQ67AU2y1V2GpL21-FdNferSfoa=w1300-h630"
 date: "2025-12-04T05:35:07.322Z"

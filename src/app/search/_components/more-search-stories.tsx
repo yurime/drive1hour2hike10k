@@ -38,7 +38,7 @@ south,
         {posts.map((post) => (
           <PostPreview
             key={post.slug}
-            title={post.title}
+            title={post.title+ " " + post.distance+ " " + "ק\"מ"}
             coverImage={post.coverImage}
             date={post.date}
             author={post.author}

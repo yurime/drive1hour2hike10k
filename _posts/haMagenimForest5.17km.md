@@ -1,5 +1,5 @@
 ---
-title: "יער המגינים 5.17 ק\"מ"
+title: "יער המגינים"
 excerpt: ""
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczNWtFFNA3h34LMym4Ss-lGKarxD8gI4V2pG9kKH6WTCtxtaYK3OLZ7u7m39WiV0t-rEmc9WSX3BI8ofzFFBE4jNn2L6q_jfczJUCM5_Stg0IRnZebQA=w1300-h630"
 date: "2026-08-12T05:35:07.322Z"

@@ -1,5 +1,5 @@
 ---
-title: "חרבת חנות נחל זנוח 4.72 ק\"מ"
+title: "חרבת חנות נחל זנוח"
 excerpt: "מסלול קצר עם נוף הררי ירוק"
 coverImage: "https://lh3.googleusercontent.com/pw/AP1GczMlNNUu_JjcUe49nQGnEKs7Pl42tsPBLSobPRnLxeX-UNHbcfu4cAtWsIzS1ypI748UqSLVCLi6BaFn2URCMo1N8mWt2VOuINk2EDa3mfn5OBIvfbKf=w1300-h630"
 date: "2025-06-11T05:35:07.322Z"

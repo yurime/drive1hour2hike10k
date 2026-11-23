@@ -9,6 +9,7 @@ author:
   picture: "/assets/blog/authors/yuri.jpeg"
 albumURL: ""
 wazeParking: "https://ul.waze.com/ul?ll=31.84151779%2C34.99345064&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+israelHikingMap: "https://mapeak.com/share/sZ0E4LO6d8"
 distance:  7.07 
 ascent:  187
 descent:  -185
@@ -22,3 +23,6 @@ gpxFileAddr: "/treksgpx/canadaParkEmmausWell.gpx"
 
 ## אטרקציות
  - באר אמאוס \[[mapeak](https://mapeak.com/poi/OSM/node_3986301265)\], \[[amudanan](https://amudanan.co.il/#!wiki=P690224)\]
+ - מצפה סהר \[[amudanan](https://amudanan.co.il/#!wiki=P948909)\]
+ - מצפה לזכר יונה בריף  \[[amudanan](https://amudanan.co.il/#!wiki=P769801)\]
+ 

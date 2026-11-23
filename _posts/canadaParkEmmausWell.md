@@ -13,7 +13,7 @@ israelHikingMap: "https://mapeak.com/share/sZ0E4LO6d8"
 distance:  7.07 
 ascent:  187
 descent:  -185
-parkingCoords: [31.68427, 34.97102,]
+parkingCoords: [31.8416, 34.9934,]
 gpxFileAddr: "/treksgpx/canadaParkEmmausWell.gpx"
 ---
 ## חניה
@@ -25,4 +25,5 @@ gpxFileAddr: "/treksgpx/canadaParkEmmausWell.gpx"
  - באר אמאוס \[[mapeak](https://mapeak.com/poi/OSM/node_3986301265)\], \[[amudanan](https://amudanan.co.il/#!wiki=P690224)\]
  - מצפה סהר \[[amudanan](https://amudanan.co.il/#!wiki=P948909)\]
  - מצפה לזכר יונה בריף  \[[amudanan](https://amudanan.co.il/#!wiki=P769801)\]
- 
+ - חרבת אל חיבא \[[amudanan](https://amudanan.co.il/#!wiki=P346381)\]
+ - מערת קבורה \[[amudanan](https://amudanan.co.il/#!wiki=P640939)\]
